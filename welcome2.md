@@ -6,7 +6,14 @@ layout: default
   
 <br><br>
 
-# Welcome to the Course!
+#### Topics
+{:.no_toc}
+* TOC
+{:toc}
+
+
+
+# Unit 01
 
 Welcome to Intro to Data Science for the Social Sector. This is a broad overview course designed to expose you to common and useful open source tools in the field. 
 
@@ -138,6 +145,19 @@ Create a short bio for the class. Each question requires a different type of tex
 The full lab instructions are available [HERE](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html).
 
 [ Download the Rmd Template ](https://cdn.rawgit.com/DS4PS/Data-Science-Class/master/LABS/lab-01-template.Rmd)
+
+
+<br><br>
+
+# Unit 2 - Functions and Vectors
+
+asdf
+asdf
+
+## Functions
+
+asdf
+asdf
 
 
 <br><br><br><br>
