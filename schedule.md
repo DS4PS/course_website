@@ -36,11 +36,13 @@ organization
 
 
 
+
+
 *** 
 
 # Introduction to Data Science 
 
-[ Unit 1: Aug 16-22 ]{@date}
+[ Unit 1: Aug 17-24 ]{@date}
 
 This unit defines the concept of "data science" and provides an overview of the course schedule for the semester. 
 
@@ -140,11 +142,13 @@ output: html_document
 
 # Functions and Data Types
 
-[ Unit 2: Aug 23-29 ]{@date}
+[ Unit 2: Aug 24-31 ]{@date}
 
 By the end of this unit, you will be able to:
-* Understand and change vector data types.
 * Use functions in R.
+* Select appropriate data types.
+* Change data types through casting.
+
 
 
 
@@ -165,10 +169,10 @@ By the end of this unit, you will be able to:
 
 ## Readings
 
-Course notes, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)  [ Lecture ]()  
-Course notes, [CH3: Data Structures](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)  
+Course text, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)  [ Lecture ]()  
+Course text, [CH3: Data Structures](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)  
 
-For some additional material, check out:
+For additional material, check out:
 
 Teetor, P. (2011). R cookbook: Proven recipes for data analysis, statistics, and graphics. " O'Reilly Media, Inc.". [ CH 5.2-5.5 ]{@reading http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf}
 
@@ -178,9 +182,8 @@ Teetor, P. (2011). R cookbook: Proven recipes for data analysis, statistics, and
 You have two assignments this week. 
 
 Discussion
-Lab
 
-[ ]{@lab }
+[Lab 02 - Functions and Vectors]{@lab lab-02-instructions.html}
 
 
 
