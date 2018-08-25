@@ -74,11 +74,6 @@ FROM: [Data Scientist Career Pathways in Government](https://github.com/ukgovdat
 https://www.ted.com/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime
 
 
-## Lectures
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0tak8PvXO7w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 ## Assignments
 
@@ -170,8 +165,8 @@ By the end of this unit, you will be able to:
 
 ## Readings
 
-Course notes, CH2, Functions [ TEXT ](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)
-Course notes, CH3, Data Structures [ TEXT ](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)
+Course notes, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)   
+Course notes, [CH3: Data Structures](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)  
 
 For some additional material, check out:
 
@@ -184,7 +179,7 @@ You have two assignments this week.
 
 Discussion
 Lab
-{@lab }
+[]{@lab }
 
 
 
