@@ -165,7 +165,7 @@ By the end of this unit, you will be able to:
 
 ## Readings
 
-Course notes, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)   
+Course notes, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)  [ Lecture ]()  
 Course notes, [CH3: Data Structures](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)  
 
 For some additional material, check out:
@@ -179,7 +179,8 @@ You have two assignments this week.
 
 Discussion
 Lab
-[]{@lab }
+
+[ ]{@lab }
 
 
 
