@@ -183,7 +183,7 @@ You have two assignments this week.
 
 Discussion
 
-[Lab 02 - Functions and Vectors]{@lab lab-02-instructions.html}
+[ Lab 02 - Functions and Vectors ]{@lab lab-02-instructions.html}
 
 
 
