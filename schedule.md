@@ -24,7 +24,7 @@ and include an H1 text element.
 
 [ Unit 0 ]{@date}
 
-welcome
+## Welcome to the Course
 
 organization
 - textbooks
@@ -32,7 +32,7 @@ organization
 - assignments
 - labs
 
-how to succeed
+## Tips for Success
 
 
 
@@ -133,7 +133,7 @@ output: html_document
 
 ```
 
-__Instructions for Submitting__
+
 
 
 
@@ -148,8 +148,9 @@ __Instructions for Submitting__
 [ Unit 2: Aug 23-29 ]{@date}
 
 By the end of this unit, you will be able to:
+* Understand and change vector data types.
 * Use functions in R.
-* Use data types properly.
+
 
 
 #### Key Concepts
@@ -169,8 +170,21 @@ By the end of this unit, you will be able to:
 
 ## Readings
 
+Course notes, CH2, Functions [ TEXT ](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)
+Course notes, CH3, Data Structures [ TEXT ](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)
+
+For some additional material, check out:
+
 Teetor, P. (2011). R cookbook: Proven recipes for data analysis, statistics, and graphics. " O'Reilly Media, Inc.". [ CH 5.2-5.5 ]{@reading http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf}
 
+
+## Assignments
+
+You have two assignments this week. 
+
+Discussion
+Lab
+{@lab }
 
 
 
