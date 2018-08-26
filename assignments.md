@@ -5,11 +5,11 @@ layout: default
 <style>
 th {
     padding: 3px 10px 3px 10px;
-    text-align: right;
+    text-align: left;
 }
 td {
     padding: 3px 10px 3px 10px;
-    text-align: right;
+    text-align: left;
 }
 </style>
 
