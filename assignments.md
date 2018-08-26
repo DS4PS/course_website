@@ -18,6 +18,13 @@ td {
   
 <br><br>
 
+### Class Roster
+
+Meet your classmates:
+
+[ Roster for Data Science for the Public Sector, Fall 2018 ](https://ds4ps.github.io/Data-Science-Class/MISC/bios_lab_01/ROSTER.html)
+
+<br>
 
 ### Attend in-person review sessions: 
 
