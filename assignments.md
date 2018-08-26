@@ -19,10 +19,17 @@ td {
 <br><br>
 
 
+Attend in-person review sessions: 
+
+* Wednesday, 6pm-7pm 
+* Thursday, 1pm-2pm 
+
+
+
 
 # Labs
 
-Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one lab.
+
 
 <table class="uk-table uk-table-striped">
 <thead>
@@ -150,6 +157,10 @@ Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one
 </tbody>
 </table>
 
+<br>
+
+*Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one lab.*
+
 -----------------
 <br><br>
 
@@ -164,6 +175,36 @@ DATES  |   TOPIC
 dates  |  topic3  
 dates  |  topic2  
 
+*Discussion boards are 
+
+All discussion board
+
+## The Promise of Open Data: Aug 24-Sept 7
+
+
+## The Challenges of Open Data: Aug 31-Sept 7
+
+## The Challenges of Open Data: Aug 31-Sept 7
+
+## 
+
+UNIT	DATES	TOPIC
+Week 1	Aug 17-24	Intro to Markdown, Overview of Data Science
+Week 2		Functions and Data Structures
+Week 3		Expressive Logic
+Week 4	Sep 7 - Sept 14	Joining Data
+Week 5	Sept 14 - Sept 21	Descriptive Analysis
+Week 6	Sept 21 - Sept 28	Visualization I
+Week 7	Sept 28 - Oct 5	Visualization II
+Week 8	Oct 5 - Oct 12	Data Ingestion
+Week 9	Oct 12 - Oct 19	Advanced Graphics
+Week 10	Oct 19 - Oct 26	Data Dashboards
+Week 11	Oct 26 - Nov 2	Collaboration Tools
+Week 12	Nov 2 - Nov 9	Programming Principles and Control
+Week 13	Nov 9 - Nov 16	Text Analysis
+Week 14	Nov 16 - Nov 23	Final Project
+Week 15	Nov 23 - Nov 30	Thanksgiving
+Week 16	Nov 30 - Dec 7	Final Project
 
 
 
