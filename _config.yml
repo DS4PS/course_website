@@ -92,8 +92,8 @@ info:
  course_website: 
  course_start_end_dates: Aug 16th - Dec 5th, 2018
  course_prerequisites: None
- class_meets_when:  Online
- class_meets_where: Online
+ class_meets_when:  Online, Review Sessions Wed 5-6pm & Thurs 1-2pm
+ class_meets_where: Online, UCENT 480A & 580A
 
 instructor:
 -  name: Jesse Lecy
