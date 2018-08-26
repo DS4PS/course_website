@@ -17,10 +17,6 @@ layout: default
 
 Welcome to Intro to Data Science for the Social Sector. This is a broad overview course designed to expose you to common and useful open source tools in the field. 
 
-<br>
-<iframe width="400" height="315" src="https://www.youtube.com/embed/0tak8PvXO7w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
-
 A few notes about the semester:
 
 
