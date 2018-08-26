@@ -20,8 +20,27 @@ td {
 
 
 
+UNIT	DATES	TOPIC
+Aug 24	Intro to Markdown, Overview of Data Science
+Aug 31	Functions and Data Structures
+Sept 7	Expressive Logic
+Sept 14	Joining Data
+Sept 21	
+Sept 28	
+Oct 5	
+Oct 12	
+Oct 19	
+Oct 26	
+Nov 2	Collaboration Tools
+Nov 9	Programming Principles and Control
+Nov 16	Text Analysis
+Nov 23	Final Project
+Nov 30	Thanksgiving
+Dec 7	Final Project
 
 # Labs
+
+Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one lab.
 
 <table class="uk-table uk-table-striped">
 <thead>
@@ -56,12 +75,96 @@ td {
             <td>  SOLUTIONS  </td>
         </tr>
         <tr>
-            <td>  Sept 7  </td>
+            <td>  Sept 14  </td>
             <td>  LAB 04 </td>
-            <td>  Joining Datasets  </td>
+            <td>  Joining Data  </td>
             <td>     </td>
             <td>  SOLUTIONS  </td>
         </tr>    
+        <tr>
+            <td>  Sept 21  </td>
+            <td>  LAB 05 </td>
+            <td>  Descriptive Analysis  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Sept 28  </td>
+            <td>  LAB 06 </td>
+            <td>  Visualization I  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Oct 5  </td>
+            <td>  LAB 07 </td>
+            <td>  Visualization II  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Oct 12  </td>
+            <td>  LAB 08 </td>
+            <td>  Data Ingestion  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Oct 19  </td>
+            <td>  LAB 09 </td>
+            <td>  Visualization III  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Oct 26  </td>
+            <td>  LAB 10 </td>
+            <td>  Dashboards in R Markdown  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Nov 2  </td>
+            <td>  LAB 11 </td>
+            <td>  GitHub for Project Management  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Nov 9  </td>
+            <td>  LAB 12 </td>
+            <td>  Programming & Simulation  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Nov 16  </td>
+            <td>  LAB 13 </td>
+            <td>  Text Analysis  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Nov 23  </td>
+            <td>   </td>
+            <td>  Final Project  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Nov 30  </td>
+            <td>  Thanksgiving </td>
+            <td>  Joining Datasets  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
+        <tr>
+            <td>  Dec 7  </td>
+            <td>   </td>
+            <td>  Final Project  </td>
+            <td>     </td>
+            <td>    </td>
+        </tr> 
 </tbody>
 </table>
 
@@ -69,33 +172,6 @@ td {
 <br><br>
 
 
-# Labs
-
-DUE DATE | TOPIC | LAB | DATA | SOLUTIONS  
---------|---------|------|-----|--------  
-Aug 24  | Markdown Documents  | [LAB 01](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html) | |  [SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html)  
-Aug 31 | Functions and Vectors | LAB 02 | [DATA](https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html) |  
-
-
-
-Aug 24  Markdown Documents
-[  LAB 01](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html)
-[  SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html)
-
-Aug 31  Functions and Vectors [ [LAB 02](https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html) ] [ SOLUTIONS ]
-[ LAB 03 - Logical Operators ]  [ SOLUTIONS ]
-[ LAB 04 - Joining Datasets ]  [ SOLUTIONS ]  
-[ LAB 05 - Descriptive Analysis ]  [ SOLUTIONS ]  
-[ LAB 06 - Intro. to Graphics ]  [ SOLUTIONS ]  
-[ LAB 07 - Graphics II ]  [ SOLUTIONS ]  
-[ LAB 08 - Data Input ]  [ SOLUTIONS ]  
-[ LAB 09 - Graphics III ]  [ SOLUTIONS ]  
-[ LAB 10 - Dashboards in R Markdown ]  [ SOLUTIONS ]  
-[ LAB 11 - GitHub for Project Management ]  [ SOLUTIONS ]  
-[ LAB 12 - Programming a Simulation ]  [ SOLUTIONS ]  
-[ LAB 13 - Text Analysis ]  [ SOLUTIONS ]  
-
-----------------
 
 
 
