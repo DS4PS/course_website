@@ -178,7 +178,9 @@ Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one
 # Discussion Boards
   
 
-Discussion boards are worth 20% of the final grade. We will be using Yellowdig, accessible on our course [Canvas page](http://www.canvas.asu.edu).
+Discussion boards are worth 20% of the final grade. We will be using Yellowdig, accessible on our course Canvas site:
+
+**[CANVAS PORTAL](http://www.canvas.asu.edu)**
 
 Yellowdig is a Facebook-style discussion board that is organized different than traditional boards that are centered around threads on topics. Instead it has a feed where students create "pins" based upon the topic that week. You receive points for posting pins, for the resonses that you get to your ideas, for interacting on other students' pins, and when you receive accolades from students or the professor. In this way, it measures engagement rather than word counts used on traditional discussion board (if you post a bunch of long and boring blogs no one will respond to your pins).
 
