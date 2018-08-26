@@ -273,7 +273,7 @@ Nov 16-Nov 23 | Social Media Tools
 
 One easy way to develop expertise in this realm is to start a [Feedly account](https://feedly.com) in order to follow thought leaders in the field.
 
-![](assets/img/feedly.png)
+![](/assets/img/feedly.png)
 
 Alternatively you can find folks on Twitter or Facebook. 
 
