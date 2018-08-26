@@ -60,7 +60,9 @@ You are not required to purchase a textbook. I have referenced several useful re
 The text available on this website is a set of lecture notes created using Markdown documents so that you can easily copy and paste code from the examples, or borrow document formats that you like. All of the raw files are available on GitHub, and can be easily accessed by clicking on the "edit" link on each page.
 
  
------------
+<br>
+----------
+<br><br>
  
  
 
@@ -142,7 +144,10 @@ The full lab instructions are available [HERE](https://ds4ps.github.io/Data-Scie
 [ Download the Rmd Template ](https://cdn.rawgit.com/DS4PS/Data-Science-Class/master/LABS/lab-01-template.Rmd)
 
 
+<br>
+----------
 <br><br>
+
 
 
 
@@ -181,7 +186,7 @@ For additional material, check out:
 Teetor, P. (2011). [R cookbook: Proven recipes for data analysis, statistics, and graphics.](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf) " O'Reilly Media, Inc.". **CH 5.2-5.5**
 
 
-## Assignments
+## Week 2 Assignments
 
 You have one lab and one discussion topic this week:
 
