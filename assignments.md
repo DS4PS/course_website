@@ -173,8 +173,14 @@ Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one
 
 Discussion boards are worth 20% of the final grade. We will be using Yellowdig, accessible on our course [Canvas page](http://www.canvas.asu.edu).
 
+Yellowdig is a Facebook-style discussion board that is organized different than traditional boards that are centered around threads on topics. Instead it has a feed where students create "pins" based upon the topic that week. You receive points for posting pins, for the resonses that you get to your ideas, for interacting on other students' pins, and when you receive accolades from students or the professor. In this way, it measures engagement rather than word counts used on traditional discussion board (if you post a bunch of long and boring blogs no one will respond to your pins).
 
-### The Promise of Big, Open Data: Aug 24-Sept 7
+The labs in the course focus on the technical skills of data science, so these discussions are meant to balance the class with an opportunity to explore some interesting topics and trends in technology and society. They are open-ended as a means to invite curiosity and critical thinkings.
+
+
+
+
+### Aug 24-Sept 7: The Promise of Big, Open Data
 
 The world is simultaneously generating more data than it has ever before, as well as pushing for policies for making government data more accessible and democratic. These trends and movements is an important enabling aspect of data science, becuse it provides opportunity for real insights that can change our understanding of systems and allow us to hold institutions accountable.
 
@@ -183,7 +189,7 @@ So ignoring potential problems with big and open data for now, read about two in
 "[A Data Analyst's Blog Is Transforming How New Yorkers See Their City](https://www.npr.org/sections/alltechconsidered/2014/11/28/367046864/a-data-analysts-blog-is-transforming-how-new-yorkers-see-their-city
 )", NPR, Nov 2018.
 
-[How a blog saved OK Cupid](https://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/)
+[How a blog saved OK Cupid](https://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/), FiveThirtyEight Blog, Nov 2014.
 
 
 <br> 
@@ -196,39 +202,72 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<br>
+----------------
 <br><br>
 
-### The Challenges of Open Data I: Aug 31-Sept 7
+### Aug 31-Sept 7: The Perils of Open Data
+
+Big and open data can generate powerful insights, but with great power comes great responsibility. In some cases, it might create transparency and improve policy. In others it can be used to manipulate populations and distort accountability. 
+
+"[The Data that Turned the World Upside Down: How Cambridge Analytica used your Facebook data to help the Donald Trump campaign in the 2016 election.](https://publicpolicy.stanford.edu/news/data-turned-world-upside-down)", 
+
+This example poses many interesting dilemas. The Obama campaign was celebrated for using data to enhance voter mobilization. One can argue that the Trump campaign simply embraced the same strategy. Are we being unfair to laude one candidate for his data acumen but criticize another for similar tactics? What are the important differences between the two cases? 
+
+**ASSIGNMENT: For your disccusion this week, post a pin with some thoughts about the potential downside of big & open data, ethics in a time of big data, and what sorts of privacy rules you would devise to balance the benefits that can come from access to data along with challenges of data governance.** 
+
+--------------
+<br><br>
+
+### Sep 7-Sept 14: The Best of R
+
+You might not have heard, but [nerd is the new black](https://www.wsj.com/articles/SB10001424127887323478304578332850293360468). And there is [nothing hotter than learning R](http://www.startfactor.pt/uploads/3/8/5/0/38505347/r-is-still-hot.pdf).
+
+But what is R, and what are the nerds using it for? 
+
+**This week, your task is to explore a few blogs about tools in R and find one package or application that you are excited about. It can be an analytics package, a graphics package, a specific application, or otherwise.**
+
+Mine, personally, was the package that allows you to create comic strip graphics in R:
+
+https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs
+
+We warned up-front, this assignment might be overwhelming in you are wading into a new community where the technical language is unfamiliar and the volume of information vast. There are currently over 13,000 packages available in R! That is partly the point of the assignment - recognizing the sheer volume of creativity surrounding the R community. But also learning how to find some sources that make the content accessible. Here are a few to get you started:
+
+https://awesome-r.com/
+
+https://cran.r-project.org/web/views/
+
+https://blog.feedspot.com/r_programming_blogs/
+
+https://www.r-bloggers.com/
 
 
+<br><br>
 
-### The Challenges of Open Data II: Sep 7-Sept 14
+### Upcoming Topipcs:
 
+* Sept 14-Sept 21: Smart Cities 
+* Sept 21-Sept 28: Data APIs 
+* Sept 28-Oct 5: Bad Graphs 
+* Oct 5-Oct 12: Good Graphing Packages 
+* Oct 12-Oct 19: Dashboard Design 
+* Oct 19-Oct 26: Managing with Data  
+* Oct 26-Nov 2: Moneyballing Government? 
+* Nov 2-Nov 9: Open Innovation 
+* Nov 9-Nov 16: The Challenges of Big Data 
+* Nov 16-Nov 23: Social Media Tools 
 
-### Open Innovation
+<br>
 
+### Developing Expertise
 
+One easy way to develop expertise in this realm is to start a [Feedly account](https://feedly.com) in order to follow thought leaders in the field.
 
-UNIT	DATES	TOPIC
-Week 1	Aug 17-24	Intro to Markdown, Overview of Data Science
-Week 2		Functions and Data Structures
-Week 3		Expressive Logic
-Week 4		Joining Data
-Week 5	Sept 14 - Sept 21	Descriptive Analysis
-Week 6	Sept 21 - Sept 28	Visualization I
-Week 7	Sept 28 - Oct 5	Visualization II
-Week 8	Oct 5 - Oct 12	Data Ingestion
-Week 9	Oct 12 - Oct 19	Advanced Graphics
-Week 10	Oct 19 - Oct 26	Data Dashboards
-Week 11	Oct 26 - Nov 2	Collaboration Tools
-Week 12	Nov 2 - Nov 9	Programming Principles and Control
-Week 13	Nov 9 - Nov 16	Text Analysis
-Week 14	Nov 16 - Nov 23	Final Project
-Week 15	Nov 23 - Nov 30	Thanksgiving
-Week 16	Nov 30 - Dec 7	Final Project
+![](assets/img/feedly.png)
 
+Alternatively you can find folks on Twitter or Facebook. 
 
-
+Either way, add some data science to your news feeds to increase your exposure and expertise. 
 
 
 
