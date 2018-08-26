@@ -50,11 +50,11 @@ Attend in-person review sessions:
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html">solutions</a>   </td>
         </tr>
         <tr>
-            <td>  Aug 31  </td>
+            <td>  Sept 2  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html">LAB 02</a>  </td>
             <td>  Functions and Vectors  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html">tax parcels</a>  </td>
-            <td>  <a href="">solutions</a>   </td>
+            <td>     </td>
         </tr>
         <tr>
             <td>  Sept 7  </td>
@@ -159,7 +159,7 @@ Attend in-person review sessions:
 
 <br>
 
-*Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one lab.*
+Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one lab.
 
 -----------------
 <br><br>
@@ -169,30 +169,51 @@ Attend in-person review sessions:
 
 
 # Discussion Boards
+  
 
-DATES  |   TOPIC  
--------|------------  
-dates  |  topic3  
-dates  |  topic2  
-
-*Discussion boards are 
-
-All discussion board
-
-## The Promise of Open Data: Aug 24-Sept 7
+Discussion boards are worth 20% of the final grade. We will be using Yellowdig, accessible on our course [Canvas page](http://www.canvas.asu.edu).
 
 
-## The Challenges of Open Data: Aug 31-Sept 7
+### The Promise of Big, Open Data: Aug 24-Sept 7
 
-## The Challenges of Open Data: Aug 31-Sept 7
+The world is simultaneously generating more data than it has ever before, as well as pushing for policies for making government data more accessible and democratic. These trends and movements is an important enabling aspect of data science, becuse it provides opportunity for real insights that can change our understanding of systems and allow us to hold institutions accountable.
 
-## 
+So ignoring potential problems with big and open data for now, read about two interesting cases where big and open data have offered deep insights into city planning and human nature. 
+
+"[A Data Analyst's Blog Is Transforming How New Yorkers See Their City](https://www.npr.org/sections/alltechconsidered/2014/11/28/367046864/a-data-analysts-blog-is-transforming-how-new-yorkers-see-their-city
+)", NPR, Nov 2018.
+
+[How a blog saved OK Cupid](https://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/)
+
+
+<br> 
+
+**ASSIGNMENT: For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.**
+
+<br>
+
+You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), or this short interview. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
+### The Challenges of Open Data I: Aug 31-Sept 7
+
+
+
+### The Challenges of Open Data II: Sep 7-Sept 14
+
+
+### Open Innovation
+
+
 
 UNIT	DATES	TOPIC
 Week 1	Aug 17-24	Intro to Markdown, Overview of Data Science
 Week 2		Functions and Data Structures
 Week 3		Expressive Logic
-Week 4	Sep 7 - Sept 14	Joining Data
+Week 4		Joining Data
 Week 5	Sept 14 - Sept 21	Descriptive Analysis
 Week 6	Sept 21 - Sept 28	Visualization I
 Week 7	Sept 28 - Oct 5	Visualization II
