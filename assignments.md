@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<style>
+th {
+    padding: 3px 10px 3px 10px;
+    text-align: right;
+}
+td {
+    padding: 3px 10px 3px 10px;
+    text-align: right;
+}
+</style>
+
+
 <div class = "uk-container uk-container-small">
   
 <br><br>
