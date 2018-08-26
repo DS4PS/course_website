@@ -49,11 +49,11 @@ header:
 # - title: Syllabus
 #  url: /
 
- - title: Course Schedule
-   url: welcome2/
+- title: Course Schedule
+  url: welcome2/
 
- - title: Assignments
-   url: assignments/
+- title: Assignments
+  url: assignments/
    
 - title: Textbook
   url: https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/index.html 
@@ -68,7 +68,7 @@ header:
   url: discussions/
 
 - title: Class Roster
-  url: discussions/
+  url: https://ds4ps.github.io/Data-Science-Class/MISC/bios_lab_01/ROSTER.html
   
 
 footer:
