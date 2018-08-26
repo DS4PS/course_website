@@ -40,28 +40,28 @@ Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html">LAB 01</a>   </td>
             <td>  Markdown Documents </td>
             <td>  no data </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html">SOLUTIONS</a>   </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html">solutions</a>   </td>
         </tr>
         <tr>
             <td>  Aug 31  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html">LAB 02</a>  </td>
             <td>  Functions and Vectors  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html">tax parcels</a>  </td>
-            <td>  <a href="">SOLUTIONS</a>   </td>
+            <td>  <a href="">solutions</a>   </td>
         </tr>
         <tr>
             <td>  Sept 7  </td>
             <td>  LAB 03  </td>
             <td>  Logical Operators  </td>
             <td>     </td>
-            <td>  SOLUTIONS  </td>
+            <td>    </td>
         </tr>
         <tr>
             <td>  Sept 14  </td>
             <td>  LAB 04 </td>
             <td>  Joining Data  </td>
             <td>     </td>
-            <td>  SOLUTIONS  </td>
+            <td>    </td>
         </tr>    
         <tr>
             <td>  Sept 21  </td>
@@ -128,21 +128,21 @@ Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one
         </tr> 
         <tr>
             <td>  Nov 23  </td>
-            <td>   </td>
+            <td>  --- </td>
             <td>  Final Project  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 30  </td>
-            <td>  Thanksgiving </td>
-            <td>  Joining Datasets  </td>
+            <td>  --- </td>
+            <td>  Thanksgiving  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Dec 7  </td>
-            <td>   </td>
+            <td>  --- </td>
             <td>  Final Project  </td>
             <td>     </td>
             <td>    </td>
