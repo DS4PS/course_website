@@ -107,7 +107,7 @@ For some background information on R, read the New York Times story: [Data Analy
 You will find this background information helpful as you start using R:
 
 * [ Helpful Vocabulary ](https://github.com/DS4PS/Data-Science-Class/raw/master/HANDOUTS/Helpful%20Programming%20Vocabulary.pdf)
-* [ Base R Cheat Sheet ](base-r-cheat-sheet.pdf)
+* [ Base R Cheat Sheet ](https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf)
 
 See the [Resources](https://ds4ps.github.io/course_website/resources/) tab for some additional information about R and R Studio.
 
@@ -178,7 +178,7 @@ Course text, [CH3: Data Structures](https://ds4ps.github.io/Data-Science-Class/T
 
 For additional material, check out:
 
-Teetor, P. (2011). R cookbook: Proven recipes for data analysis, statistics, and graphics. " O'Reilly Media, Inc.". [ CH 5.2-5.5 ]{@reading http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf}
+Teetor, P. (2011). [R cookbook: Proven recipes for data analysis, statistics, and graphics.](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf) " O'Reilly Media, Inc.". **CH 5.2-5.5**
 
 
 ## Assignments
