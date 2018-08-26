@@ -20,24 +20,6 @@ td {
 
 
 
-UNIT	DATES	TOPIC
-Aug 24	Intro to Markdown, Overview of Data Science
-Aug 31	Functions and Data Structures
-Sept 7	Expressive Logic
-Sept 14	Joining Data
-Sept 21	
-Sept 28	
-Oct 5	
-Oct 12	
-Oct 19	
-Oct 26	
-Nov 2	Collaboration Tools
-Nov 9	Programming Principles and Control
-Nov 16	Text Analysis
-Nov 23	Final Project
-Nov 30	Thanksgiving
-Dec 7	Final Project
-
 # Labs
 
 Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one lab.
