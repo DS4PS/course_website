@@ -177,7 +177,7 @@ Yellowdig is a Facebook-style discussion board that is organized different than 
 
 The labs in the course focus on the technical skills of data science, so these discussions are meant to balance the class with an opportunity to explore some interesting topics and trends in technology and society. They are open-ended as a means to invite curiosity and critical thinkings.
 
-
+<br>
 
 
 ### Aug 24-Sept 7: The Promise of Big, Open Data
