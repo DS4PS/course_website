@@ -30,7 +30,6 @@ layout: default
             <td>  *no data* </td>
             <td>  [SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html)</td>
         </tr>
-  
         <tr>
             <td>  Aug 31  </td>
             <td>  Functions and Vectors  </td>
@@ -38,7 +37,6 @@ layout: default
             <td>  [Syracuse Parcels](https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html)  </td>
             <td>  [SOLUTIONS]()  </td>
         </tr>
-        
         <tr>
             <td>  Sept 7  </td>
             <td>  Logical Operators  </td>
@@ -46,7 +44,7 @@ layout: default
             <td>  [Syracuse Parcels](https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html)   </td>
             <td>  [SOLUTIONS]()  </td>
         </tr>
-
+  
 </tbody>
 </table>
 
@@ -63,9 +61,12 @@ Aug 31 | Functions and Vectors | LAB 02 | [DATA](https://ds4ps.github.io/Data-Sc
 
 
 
-[ [LAB 01 - Markdown](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html) ] [ [SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html) ]  
-[ [LAB 02 - Functions and Vectors](https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html) ] [ SOLUTIONS ]  
-[ LAB 03 - Logical Operators ]  [ SOLUTIONS ]  
+Aug 24  Markdown Documents
+[  LAB 01](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html)
+[  SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html)
+
+Aug 31  Functions and Vectors [ [LAB 02](https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html) ] [ SOLUTIONS ]
+[ LAB 03 - Logical Operators ]  [ SOLUTIONS ]
 [ LAB 04 - Joining Datasets ]  [ SOLUTIONS ]  
 [ LAB 05 - Descriptive Analysis ]  [ SOLUTIONS ]  
 [ LAB 06 - Intro. to Graphics ]  [ SOLUTIONS ]  
