@@ -12,6 +12,13 @@ layout: default
 
 # Labs
 
+DUE DATE | TOPIC | LAB | DATA | SOLUTIONS  
+--------|---------|------|-----|--------  
+Aug 24  | Markdown Documents  | [LAB 01 - Markdown](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html) | [SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html)  
+Aug 31 | Functions and Vectors | LAB 02 | [DATA](https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html) |  
+
+
+
 [ [LAB 01 - Markdown](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html) ] [ [SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html) ]  
 [ [LAB 02 - Functions and Vectors](https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html) ] [ SOLUTIONS ]  
 [ LAB 03 - Logical Operators ]  [ SOLUTIONS ]  
