@@ -178,6 +178,8 @@ Yellowdig is a Facebook-style discussion board that is organized different than 
 The labs in the course focus on the technical skills of data science, so these discussions are meant to balance the class with an opportunity to explore some interesting topics and trends in technology and society. They are open-ended as a means to invite curiosity and critical thinkings.
 
 <br>
+----------------
+<br>
 
 
 ### Aug 24-Sept 7: The Promise of Big, Open Data
@@ -203,8 +205,9 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
+
 ----------------
-<br><br>
+<br>
 
 ### Aug 31-Sept 7: The Perils of Open Data
 
@@ -216,8 +219,9 @@ This example poses many interesting dilemas. The Obama campaign was celebrated f
 
 **ASSIGNMENT: For your disccusion this week, post a pin with some thoughts about the potential downside of big & open data, ethics in a time of big data, and what sorts of privacy rules you would devise to balance the benefits that can come from access to data along with challenges of data governance.** 
 
+<br>
 --------------
-<br><br>
+<br>
 
 ### Sep 7-Sept 14: The Best of R
 
@@ -242,20 +246,26 @@ https://blog.feedspot.com/r_programming_blogs/
 https://www.r-bloggers.com/
 
 
-<br><br>
+<br>
+--------------
+<br>
+
+
 
 ### Upcoming Topipcs:
 
-* Sept 14-Sept 21: Smart Cities 
-* Sept 21-Sept 28: Data APIs 
-* Sept 28-Oct 5: Bad Graphs 
-* Oct 5-Oct 12: Good Graphing Packages 
-* Oct 12-Oct 19: Dashboard Design 
-* Oct 19-Oct 26: Managing with Data  
-* Oct 26-Nov 2: Moneyballing Government? 
-* Nov 2-Nov 9: Open Innovation 
-* Nov 9-Nov 16: The Challenges of Big Data 
-* Nov 16-Nov 23: Social Media Tools 
+DATES | TOPICS
+------|---------
+Sept 14-Sept 21 | Smart Cities 
+Sept 21-Sept 28 | Data APIs 
+Sept 28-Oct 5 | Bad Graphs 
+Oct 5-Oct 12 | Good Graphing Packages 
+Oct 12-Oct 19 | Dashboard Design 
+Oct 19-Oct 26 | Managing with Data  
+Oct 26-Nov 2 | Moneyballing Government? 
+Nov 2-Nov 9 | Open Innovation 
+Nov 9-Nov 16 | The Challenges of Big Data 
+Nov 16-Nov 23 | Social Media Tools 
 
 <br>
 
