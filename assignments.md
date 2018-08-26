@@ -33,7 +33,6 @@ td {
    <th>SOLUTIONS</th>
 </tr>
 </thead>
-
 <tbody>
         <tr>
             <td>  Aug 24  </td>
@@ -62,8 +61,7 @@ td {
             <td>  LAB 03  </td>
             <td>     </td>
             <td>  SOLUTIONS  </td>
-        </tr>
-        
+        </tr>    
 </tbody>
 </table>
 
