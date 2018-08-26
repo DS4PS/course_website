@@ -66,6 +66,10 @@ Markdown is used on GitHub, Stack Overflow, and in R Markdown documents. Familia
 
 You can see some advanced R Markdown features [HERE](https://ds4ps.github.io/Data-Science-Class/HANDOUTS/R_Markdown_Template.html).
 
+Download an R Markdown Template for labs [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/d7a11a0e/TEMPLATES/MarkdownTemplate.RMD).
+
+Check out some [NICE THEMES](http://www.datadreaming.org/post/r-markdown-theme-gallery/) for R Markdown documents.
+
 
 ## Collaboration Tools
 
