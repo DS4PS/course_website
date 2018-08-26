@@ -43,8 +43,8 @@ index:
 
 header:
 
-- title: Welcome
-  url: welcome/
+# - title: Welcome
+#   url: welcome/
   
 # - title: Syllabus
 #  url: /
