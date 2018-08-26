@@ -19,7 +19,7 @@ td {
 <br><br>
 
 
-Attend in-person review sessions: 
+### Attend in-person review sessions: 
 
 * Wednesday, 6pm-7pm 
 * Thursday, 1pm-2pm 
