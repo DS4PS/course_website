@@ -28,8 +28,16 @@ Meet your classmates:
 
 ### Attend in-person review sessions: 
 
-* Wednesday, 6pm-7pm 
-* Thursday, 1pm-2pm 
+**Wednesday, 6pm-7pm**
+* Meet in **UCENT 580A** all semester 
+* We will not meet November 21st 
+* You may need your student card to access this floor after 5pm 
+
+**Thursday, 1pm-2pm** 
+* **Most weeks** we will meet in **UCENT 580A** 
+* Nov 1 & Nov 8 we will meet in **UCENT 480A** 
+* Thursday, Nov 15th we will meet in **UCENT 705** 
+* We will not meet Nov 22nd 
 
 
 
