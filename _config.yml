@@ -46,12 +46,15 @@ header:
 - title: Welcome
   url: welcome/
   
-- title: Syllabus
-  url: /
+# - title: Syllabus
+#  url: /
 
-# - title: Course Schedule
-#   url: schedule/
+ - title: Course Schedule
+   url: welcome2/
 
+ - title: Assignments
+   url: assignment/
+   
 - title: Textbook
   url: https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/index.html 
 
@@ -64,6 +67,9 @@ header:
 - title: Get Help
   url: discussions/
 
+- title: Class Roster
+  url: discussions/
+  
 
 footer:
 - title: Home
@@ -73,7 +79,7 @@ footer:
   url: /datasets/
 
 - title: Textbook
-  url:  https://bookdown.org/yihui/bookdown-demo/
+  url:  https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/index.html
 
 - title: Course Schedule
   url: /schedule/
