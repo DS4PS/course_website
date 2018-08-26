@@ -38,25 +38,34 @@ td {
         <tr>
             <td>  Aug 24  </td>
             <td>  Markdown Documents </td>
-            <td>  [LAB 01](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html)  </td>
-            <td>  *no data* </td>
-            <td>  [SOLUTIONS](https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html)</td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html">LAB 01</a>   </td>
+            <td>  no data </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html">SOLUTIONS</a>   </td>
         </tr>
         <tr>
             <td>  Aug 31  </td>
             <td>  Functions and Vectors  </td>
-            <td>  [LAB 02](https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html)  </td>
-            <td>  [Syracuse Parcels](https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html)  </td>
-            <td>  [SOLUTIONS]()  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html">LAB 02</a>  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html">Tax Parcels</a>()  </td>
+            <td>  <a href="">SOLUTIONS</a>   </td>
         </tr>
         <tr>
             <td>  Sept 7  </td>
             <td>  Logical Operators  </td>
-            <td>  [LAB 03]()  </td>
-            <td>  [Syracuse Parcels](https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html)   </td>
-            <td>  [SOLUTIONS]()  </td>
+            <td>  LAB 03  </td>
+            <td>     </td>
+            <td>  SOLUTIONS  </td>
         </tr>
-  
+
+
+        <tr>
+            <td>  Sept 7  </td>
+            <td>  Logical Operators  </td>
+            <td>  LAB 03  </td>
+            <td>     </td>
+            <td>  SOLUTIONS  </td>
+        </tr>
+        
 </tbody>
 </table>
 
