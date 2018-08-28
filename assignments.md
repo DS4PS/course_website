@@ -209,8 +209,8 @@ The world is simultaneously generating more data than it has ever before, as wel
 
 So ignoring potential problems with big and open data for now, read about two interesting cases where big and open data have offered deep insights into city planning and human nature. 
 
-"[A Data Analyst's Blog Is Transforming How New Yorkers See Their City](https://www.npr.org/sections/alltechconsidered/2014/11/28/367046864/a-data-analysts-blog-is-transforming-how-new-yorkers-see-their-city
-)", NPR, Nov 2018.
+"[A Data Analyst's Blog](https://www.npr.org/sections/alltechconsidered/2014/11/28/367046864/a-data-analysts-blog-is-transforming-how-new-yorkers-see-their-city
+) Is Transforming How New Yorkers See Their City", NPR, Nov 2018.
 
 [How a blog saved OK Cupid](https://fivethirtyeight.com/features/christian-rudder-dataclysm-okcupid/), FiveThirtyEight Blog, Nov 2014.
 
