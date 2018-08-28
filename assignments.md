@@ -11,6 +11,9 @@ td {
     padding: 3px 10px 3px 10px;
     text-align: left;
 }
+a {
+    text-transform: uppercase;
+}
 </style>
 
 
