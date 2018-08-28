@@ -235,7 +235,7 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 
 Big and open data can generate powerful insights, but with great power comes great responsibility. In some cases, it might create transparency and improve policy. In others it can be used to manipulate populations and distort accountability. 
 
-"[The Data that Turned the World Upside Down: How Cambridge Analytica used your Facebook data to help the Donald Trump campaign in the 2016 election.](https://publicpolicy.stanford.edu/news/data-turned-world-upside-down)", 
+"[The Data that Turned the World Upside Down:](https://publicpolicy.stanford.edu/news/data-turned-world-upside-down) How Cambridge Analytica used your Facebook data to help the Donald Trump campaign in the 2016 election.", 
 
 This example poses many interesting dilemas. The Obama campaign was celebrated for using data to enhance voter mobilization. One can argue that the Trump campaign simply embraced the same strategy. Are we being unfair to laude one candidate for his data acumen but criticize another for similar tactics? What are the important differences between the two cases? 
 
