@@ -2,6 +2,23 @@
 layout: default
 ---
 
+
+<style>
+th {
+    padding: 3px 10px 3px 10px;
+    text-align: left;
+}
+td {
+    padding: 3px 10px 3px 10px;
+    text-align: left;
+}
+a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+</style>
+
+
 <div class = "uk-container uk-container-small">
   
 <br><br>
