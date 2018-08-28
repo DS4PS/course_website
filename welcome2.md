@@ -133,7 +133,7 @@ See the [Resources](https://ds4ps.github.io/course_website/resources/) tab for s
 
 
 
-## Week 1 Assignments:
+## Week 1 Assignments
 
 
 
