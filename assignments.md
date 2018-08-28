@@ -216,7 +216,8 @@ So ignoring potential problems with big and open data for now, read about two in
 
 <br> 
 
-**ASSIGNMENT: For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.**
+**ASSIGNMENT:** 
+> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.
 
 <br>
 
@@ -237,7 +238,8 @@ Big and open data can generate powerful insights, but with great power comes gre
 
 This example poses many interesting dilemas. The Obama campaign was celebrated for using data to enhance voter mobilization. One can argue that the Trump campaign simply embraced the same strategy. Are we being unfair to laude one candidate for his data acumen but criticize another for similar tactics? What are the important differences between the two cases? 
 
-**ASSIGNMENT: For your disccusion this week, post a pin with some thoughts about the potential downside of big & open data, ethics in a time of big data, and what sorts of privacy rules you would devise to balance the benefits that can come from access to data along with challenges of data governance.** 
+**ASSIGNMENT:**  
+> For your disccusion this week, post a pin with some thoughts about the potential downside of big & open data, ethics in a time of big data, and what sorts of privacy rules you would devise to balance the benefits that can come from access to data along with challenges of data governance.
 
 <br>
 --------------
