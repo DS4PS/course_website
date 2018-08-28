@@ -59,23 +59,23 @@ Meet your classmates:
 <tbody>
         <tr>
             <td>  Aug 24  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html">LAB 01</a>   </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html"><b>LAB 01</b></a>   </td>
             <td>  Markdown Documents </td>
             <td>  no data </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html">solutions</a>   </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html"><b>SOLUTIONS</b></a>   </td>
         </tr>
         <tr>
             <td>  Sept 2  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html">LAB 02</a>  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html"><b>LAB 02</b></a>  </td>
             <td>  Functions and Vectors  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html">tax parcels</a>  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>TAX PARCELS</b></a>  </td>
             <td>     </td>
         </tr>
         <tr>
             <td>  Sept 7  </td>
             <td>  LAB 03  </td>
             <td>  Logical Operators  </td>
-            <td>     </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>TAX PARCELS</b></a>   </td>
             <td>    </td>
         </tr>
         <tr>
