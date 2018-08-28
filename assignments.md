@@ -248,7 +248,7 @@ This example poses many interesting dilemas. The Obama campaign was celebrated f
 
 ### Sep 7-Sept 14: The Best of R
 
-You might not have heard, but [nerd is the new black](https://www.wsj.com/articles/SB10001424127887323478304578332850293360468). And there is [nothing hotter than learning R](http://www.startfactor.pt/uploads/3/8/5/0/38505347/r-is-still-hot.pdf).
+You might not have heard, but [nerd is the new black](https://www.wsj.com/articles/SB10001424127887323478304578332850293360468). And there is [nothing hotter](http://www.startfactor.pt/uploads/3/8/5/0/38505347/r-is-still-hot.pdf) than learning R.
 
 But what is R, and what are the nerds using it for? 
 
