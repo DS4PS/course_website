@@ -286,7 +286,7 @@ Nov 16-Nov 23 | Social Media Tools
 
 <br>
 
-### Developing Expertise
+### Tips on Developing Expertise
 
 One easy way to develop expertise in this realm is to start a [Feedly account](https://feedly.com) in order to follow thought leaders in the field.
 
