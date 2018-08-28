@@ -14,7 +14,6 @@ td {
 }
 a {
     text-transform: uppercase;
-    font-weight: bold;
 }
 </style>
 
