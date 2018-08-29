@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+<style>
+a {
+    font-weight: bold;
+}
+</style>
+
+
 <div class = "uk-container uk-container-small">
   
 <br><br>
