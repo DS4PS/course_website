@@ -99,9 +99,9 @@ Do yourself and all of your future collaborators a favor and try to develop a co
 
 Think of these suggestions as good habits that will make your life easier and will improve your ability to collaborate with others. And remember, your most important collaborator is yourself two months from now! 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W-Cz-LK16g4?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube-nocookie.com/embed/W-Cz-LK16g4?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<br>
+<br><br>
 
 ## Collaboration Tools
 
