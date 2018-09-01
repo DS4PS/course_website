@@ -171,14 +171,14 @@ library(tidyverse)
 
 ## Developing Expertise
 
-Many of you are new to the domain of data science. One easy way to develop expertise is to start a [Feedly account](https://feedly.com) in order to follow thought leaders in the field using a daily news digest.
+Many of you are new to the domain of data science. One easy way to develop expertise is to start a [Feedly account](https://feedly.com/ds4ps) in order to follow thought leaders in the field using a daily news digest.
 
-![](https://raw.githubusercontent.com/DS4PS/course_website/master/assets/img/feedly.png)
+![](https://raw.githubusercontent.com/DS4PS/course_website/master/assets/img/feedly2.png)
 
 
 Alternatively you can find folks on Twitter and other social media platforms. 
 
-Either way, add some data science to your news feeds to increase your exposure to the topic. There are many active communities to follow, lots with a focus on civic tech and data science for the public good.
+Either way, add some data science to your news feeds to increase your exposure to the topic. There are many active communities to follow, lots with a focus on civic tech and data science for the public sector.
 
 **Data Science Podcasts**
 * Not so Standard Deviations
