@@ -53,8 +53,9 @@ Meet your classmates:
 <thead>
 <tr>
    <th>DUE DATE</th>
-   <th>LAB</th>
    <th>TOPIC</th>
+   <th>READING</th>
+   <th>LAB</th>
    <th>DATA</th>
    <th>SOLUTIONS</th>
 </tr>
@@ -62,71 +63,76 @@ Meet your classmates:
 <tbody>
         <tr>
             <td>  Aug 24  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html"><b>LAB 01</b></a>   </td>
             <td>  Markdown Documents </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/introduction-to-r.html"><b> CH1 </b></a>   </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html"><b>LAB 01</b></a>   </td>
             <td>  no data </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html"><b>SOLUTIONS</b></a>   </td>
         </tr>
         <tr>
             <td>  Sept 2  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html"><b>LAB 02</b></a>  </td>
             <td>  Functions and Vectors  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>TAX PARCELS</b></a>  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html"><b> CH2 </b></a> 
+                  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html"><b> CH3 </b></a>
+            </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html"><b>LAB 02</b></a>  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>PARCELS</b></a>  </td>
             <td>     </td>
         </tr>
         <tr>
             <td>  Sept 7  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-03-instructions.html"><b>LAB 03</b></a>  </td>
             <td>  Logical Operators  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>TAX PARCELS</b></a>   </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/logical-statements.html"><b> CH4 </b></a>   </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-03-instructions.html"><b>LAB 03</b></a>  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>PARCELS</b></a>   </td>
             <td>    </td>
         </tr>
         <tr>
             <td>  Sept 14  </td>
+            <td>  Descriptive Analysis  </td>
             <td>  LAB 04 </td>
-            <td>  Joining Data  </td>
             <td>     </td>
             <td>    </td>
         </tr>    
         <tr>
             <td>  Sept 21  </td>
+            <td>  Visualization I  </td>
             <td>  LAB 05 </td>
-            <td>  Descriptive Analysis  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Sept 28  </td>
             <td>  LAB 06 </td>
-            <td>  Visualization I  </td>
+            <td>  Visualization II  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Oct 5  </td>
             <td>  LAB 07 </td>
-            <td>  Visualization II  </td>
+            <td>  Visualization III  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Oct 12  </td>
             <td>  LAB 08 </td>
-            <td>  Data Ingestion  </td>
+            <td>  Dashboards in R Markdown  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Oct 19  </td>
             <td>  LAB 09 </td>
-            <td>  Visualization III  </td>
+            <td>  Data Ingestion  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Oct 26  </td>
             <td>  LAB 10 </td>
-            <td>  Dashboards in R Markdown  </td>
+            <td>  Joining Data  </td>
             <td>     </td>
             <td>    </td>
         </tr> 
