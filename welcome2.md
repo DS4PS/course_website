@@ -195,7 +195,7 @@ By the end of this unit, you will be able to:
 
 ## Readings
 
-Course text, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)  [ Lecture ]()  
+Course text, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)    
 Course text, [CH3: Data Structures](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)  
 
 For additional material, check out:
@@ -226,6 +226,29 @@ Note the due date on the lab has been changed to Sunday, September 2nd.
 By the end of this unit, you will be able to:
 * Express business cases as statements in R using logical operators.
 * Use operators to break your data into relevant groups. 
+
+
+## Readings
+
+Course text, [CH4: Logical Statements](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/logical-statements.html)  
+
+
+## Week 2 Assignments
+
+You have one lab and one discussion topic this week, due Friday, Sept 7th by 11:59pm.
+
+[ Lab 03 - Logical Statements ](https://ds4ps.github.io/Data-Science-Class/LABS/lab-03-instructions.html)
+
+[ Discussion Topics ](https://ds4ps.github.io/course_website/assignments/)
+
+
+
+
+<br>
+----------
+<br><br>
+
+
 
 
 <br><br><br><br>
