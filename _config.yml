@@ -43,15 +43,18 @@ index:
 
 header:
 
-- title: Welcome
-  url: welcome/
+# - title: Welcome
+#   url: welcome/
   
-- title: Syllabus
-  url: /
+# - title: Syllabus
+#  url: /
 
-# - title: Course Schedule
-#   url: schedule/
+- title: Course Schedule
+  url: welcome2/
 
+- title: Assignments
+  url: assignments/
+   
 - title: Textbook
   url: https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/index.html 
 
@@ -63,6 +66,7 @@ header:
 
 - title: Get Help
   url: discussions/
+  
 
 
 footer:
@@ -73,7 +77,7 @@ footer:
   url: /datasets/
 
 - title: Textbook
-  url:  https://bookdown.org/yihui/bookdown-demo/
+  url:  https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/index.html
 
 - title: Course Schedule
   url: /schedule/
@@ -88,8 +92,8 @@ info:
  course_website: 
  course_start_end_dates: Aug 16th - Dec 5th, 2018
  course_prerequisites: None
- class_meets_when:  Online
- class_meets_where: Online
+ class_meets_when:  Online; In-Person Review Sessions Wed 5-6pm & Thurs 1-2pm
+ class_meets_where: Online; Review sessions in UCENT 480A & 580A
 
 instructor:
 -  name: Jesse Lecy

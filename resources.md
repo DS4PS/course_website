@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+<style>
+a {
+    font-weight: bold;
+}
+</style>
+
+
 <div class = "uk-container uk-container-small">
   
 <br><br>
@@ -71,6 +79,30 @@ Download an R Markdown Template for labs [HERE](https://cdn.rawgit.com/DS4PS/Dat
 Check out some [NICE THEMES](http://www.datadreaming.org/post/r-markdown-theme-gallery/) for R Markdown documents.
 
 
+## Style Guides
+
+Style guides are the hand-writing of the coding world. Some people have really nice code style, some people have really sloppy code that is hard to read. Consider the readibility of this:
+
+```r
+y<-cut(rank(x),breaks=seq(from=1,to=100,by=10),labels=paste("X",1:10,sep=""))
+```
+Versus:
+
+```r
+y <- cut( rank( x ), breaks=seq( from=1, to=100, by=10 ), labels=paste( "X", 1:10, sep="" ) )
+```
+
+Do yourself and all of your future collaborators a favor and try to develop a consistent coding style. There are two popular style guides for R:
+
+* [The Google R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+* [The Tidyverse Style Guide](http://style.tidyverse.org/index.html)
+
+Think of these suggestions as good habits that will make your life easier and will improve your ability to collaborate with others. And remember, your most important collaborator is yourself two months from now! 
+
+<iframe width="750" height="440" src="https://www.youtube-nocookie.com/embed/W-Cz-LK16g4?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br><br>
+
 ## Collaboration Tools
 
 Working in groups [is hard](https://www.ted.com/talks/clay_shirky_on_institutions_versus_collaboration). Most work is done in groups. As a result, project management is a non-trivial task that should not be approached in an ad-hoc fashion. The field of data science has inherited many great collaboration tools that were developed to manage large teams of software engineers, but are being used for many other creative purposes:
@@ -137,13 +169,48 @@ library(tidyverse)
 ```
 
 
+## Developing Expertise
+
+Many of you are new to the domain of data science. One easy way to develop expertise is to start a [Feedly account](https://feedly.com/ds4ps) in order to follow thought leaders in the field using a daily news digest.
+
+![](https://raw.githubusercontent.com/DS4PS/course_website/master/assets/img/feedly2.png)
+
+
+Alternatively you can find folks on Twitter and other social media platforms. 
+
+Either way, add some data science to your news feeds to increase your exposure to the topic. There are many active communities to follow, lots with a focus on civic tech and data science for the public sector.
+
+**Data Science Podcasts**
+* Not so Standard Deviations
+* Data Points by GovEx
+* Partial Derivative
+* DMV Nation
+* Data Stories
+* Talking Machines
+* Not So Standard Deviations
+* Data Skeptic
+* More Or Less
+* Linear Digression
+
+**Data Journalists, Bloggers & Civic Groups**
+* Trend CT
+* Todd Schneider
+* I Quant NY
+* ChartsNThings: A Blog by the NYT Graphics Dept
+* Data for Democracy
+
+**Blogs and Listservs**
+* R-Bloggers
+* R Weekly
+* Flowing Data
+
 
 
 ## More Resources
 
 For those that are new to data science, I have compiled some useful resources for getting acquainted with R and the data science community, as well as some notable applications of data science in the public and nonprofit sectors.
 
-http://www.lecy.info/r-for-public-policy
+[Ds4PS Resources](http://www.lecy.info/r-for-public-policy)
 
 </div>
 <br><br><br>

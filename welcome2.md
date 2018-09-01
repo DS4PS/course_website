@@ -2,6 +2,22 @@
 layout: default
 ---
 
+
+<style>
+th {
+    padding: 3px 10px 3px 10px;
+    text-align: left;
+}
+td {
+    padding: 3px 10px 3px 10px;
+    text-align: left;
+}
+a {
+    text-transform: uppercase;
+}
+</style>
+
+
 <div class = "uk-container uk-container-small">
   
 <br><br>
@@ -12,8 +28,9 @@ layout: default
 {:toc}
 
 
+<br><br>
 
-# Unit 01
+# Course Overview
 
 Welcome to Intro to Data Science for the Social Sector. This is a broad overview course designed to expose you to common and useful open source tools in the field. 
 
@@ -22,9 +39,8 @@ A few notes about the semester:
 
 #### In-Person Review Sessions
 
-The course can be completed entirely online, but I will also offer a weekly face-to-face review sessions if you prefer to ask questions or discuss content in a classroom. We will do our best to find times that can accomodates everyone. 
+The course can be completed entirely online, but I will also offer a weekly face-to-face review sessions if you prefer to ask questions or discuss content in a classroom. 
 
-Make sure to complete the [Doodle Poll](https://doodle.com/poll/2v4yszxnmihcpxqw) to report your availability if you would like to attend. 
 
 
 #### Rules for Success
@@ -61,11 +77,13 @@ You are not required to purchase a textbook. I have referenced several useful re
 The text available on this website is a set of lecture notes created using Markdown documents so that you can easily copy and paste code from the examples, or borrow document formats that you like. All of the raw files are available on GitHub, and can be easily accessed by clicking on the "edit" link on each page.
 
  
------------
+<br>
+----------
+<br><br>
  
  
 
-# Introduction to Data Science 
+# Unit 01 - Introduction to Data Science 
 
 ## Data Science Applications in the Social Sector
 
@@ -108,14 +126,14 @@ For some background information on R, read the New York Times story: [Data Analy
 You will find this background information helpful as you start using R:
 
 * [ Helpful Vocabulary ](https://github.com/DS4PS/Data-Science-Class/raw/master/HANDOUTS/Helpful%20Programming%20Vocabulary.pdf)
-* [ Base R Cheat Sheet ](base-r-cheat-sheet.pdf)
+* [ Base R Cheat Sheet ](https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf)
 
 See the [Resources](https://ds4ps.github.io/course_website/resources/) tab for some additional information about R and R Studio.
 
 
 
 
-## Week 1 Assignments:
+## Week 1 Assignments
 
 
 
@@ -143,22 +161,96 @@ The full lab instructions are available [HERE](https://ds4ps.github.io/Data-Scie
 [ Download the Rmd Template ](https://cdn.rawgit.com/DS4PS/Data-Science-Class/master/LABS/lab-01-template.Rmd)
 
 
+<br>
+----------
 <br><br>
+
+
+
 
 # Unit 2 - Functions and Vectors
 
-asdf
-asdf
+**Aug 26-Sept 2** 
 
-## Functions
+By the end of this unit, you will be able to:
+* Use functions in R.
+* Select appropriate data types.
+* Change data types through casting.
 
-asdf
-asdf
+
+#### Key Concepts
+
+* functions()
+* arguments
+* assignment
+* vectors
+* objects
+* data types
+  * numeric
+  * charactor
+  * factor
+  * logical
+* casting
+
+
+## Readings
+
+Course text, [CH2: Functions](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/functions.html)    
+Course text, [CH3: Data Structures](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-structures.html)  
+
+For additional material, check out:
+
+Teetor, P. (2011). [R cookbook: Proven recipes for data analysis, statistics, and graphics.](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf) " O'Reilly Media, Inc.". **CH 5.2-5.5**
+
+
+## Week 2 Assignments
+
+You have one lab and one discussion topic this week:
+
+[ Lab 02 - Functions and Vectors ](https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html)
+
+[ Discussion Topics ](https://ds4ps.github.io/course_website/assignments/)
+
+Note the due date on the lab has been changed to Sunday, September 2nd.
+
+
+<br>
+----------
+<br><br>
+
+
+
+# Unit 3 - Business Logic
+**Aug 31 - Sept 7**
+
+By the end of this unit, you will be able to:
+* Express business cases as statements in R using logical operators.
+* Use operators to break your data into relevant groups. 
+
+
+## Readings
+
+Course text, [CH4: Logical Statements](https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/logical-statements.html)  
+
+
+## Week 2 Assignments
+
+You have one lab and one discussion topic this week, due Friday, Sept 7th by 11:59pm.
+
+[ Lab 03 - Logical Statements ](https://ds4ps.github.io/Data-Science-Class/LABS/lab-03-instructions.html)
+
+[ Discussion Topics ](https://ds4ps.github.io/course_website/assignments/)
+
+
+
+
+<br>
+----------
+<br><br>
+
+
 
 
 <br><br><br><br>
-
-
-
 
 </div>
