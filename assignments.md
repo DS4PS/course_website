@@ -169,7 +169,7 @@ Meet your classmates:
         </tr> 
         <tr>
             <td>  Nov 23  </td>
-            <td>  Final Project  </td>
+            <td>  FINAL PROJECT  </td>
             <td>    </td>
             <td>    </td>
             <td>    </td>
@@ -183,9 +183,9 @@ Meet your classmates:
         </tr> 
         <tr>
             <td>  Dec 7  </td>
-            <td>  Final Project  </td>
+            <td>  FINAL PROJECT  </td>
             <td>    </td>
-            <td>    </td>
+            <td>  DASHBOARD  </td>
             <td>    </td>
         </tr> 
 </tbody>
