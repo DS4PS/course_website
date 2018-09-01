@@ -76,7 +76,7 @@ Meet your classmates:
         </tr>
         <tr>
             <td>  Sept 7  </td>
-            <td>  LAB 03  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html"><b>LAB 03</b></a>  </td>
             <td>  Logical Operators  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>TAX PARCELS</b></a>   </td>
             <td>    </td>
