@@ -202,6 +202,28 @@ The labs in the course focus on the technical skills of data science, so these d
 <br>
 
 
+### Topics:
+
+DATES | TOPICS
+------|---------
+Aug 24-Sept 7 | Promise of Big Open Data 
+Aug 31-Sept 7 | Perils of Big Open Data 
+Sept 7-Sept 14 | Best of R Packages 
+Sept 14-Sept 21 | Smart Cities 
+Sept 21-Sept 28 | Data APIs 
+Sept 28-Oct 5 | Bad Graphs 
+Oct 5-Oct 12 | Good Graphing Packages 
+Oct 12-Oct 19 | Dashboard Design 
+Oct 19-Oct 26 | Managing with Data  
+Oct 26-Nov 2 | Moneyballing Government? 
+Nov 2-Nov 9 | Open Innovation 
+Nov 9-Nov 16 | The Challenges of Big Data 
+Nov 16-Nov 23 | Social Media Tools 
+
+<br>
+----------------
+<br>
+
 ### Aug 24-Sept 7: The Promise of Big, Open Data
 
 The world is simultaneously generating more data than it has ever before, as well as pushing for policies for making government data more accessible and democratic. These trends and movements is an important enabling aspect of data science, becuse it provides opportunity for real insights that can change our understanding of systems and allow us to hold institutions accountable.
@@ -274,33 +296,7 @@ We warned up-front, this assignment might be overwhelming in you are wading into
 
 
 
-### Upcoming Topipcs:
 
-DATES | TOPICS
-------|---------
-Sept 14-Sept 21 | Smart Cities 
-Sept 21-Sept 28 | Data APIs 
-Sept 28-Oct 5 | Bad Graphs 
-Oct 5-Oct 12 | Good Graphing Packages 
-Oct 12-Oct 19 | Dashboard Design 
-Oct 19-Oct 26 | Managing with Data  
-Oct 26-Nov 2 | Moneyballing Government? 
-Nov 2-Nov 9 | Open Innovation 
-Nov 9-Nov 16 | The Challenges of Big Data 
-Nov 16-Nov 23 | Social Media Tools 
-
-<br>
-
-### Tips on Developing Expertise
-
-One easy way to develop expertise in this realm is to start a [Feedly account](https://feedly.com) in order to follow thought leaders in the field.
-
-![](https://raw.githubusercontent.com/DS4PS/course_website/master/assets/img/feedly.png)
-
-
-Alternatively you can find folks on Twitter or Facebook. 
-
-Either way, add some data science to your news feeds to increase your exposure and expertise. 
 
 
 
