@@ -90,6 +90,7 @@ Meet your classmates:
         <tr>
             <td>  Sept 14  </td>
             <td>  Descriptive Analysis  </td>
+            <td>   </td>
             <td>  LAB 04 </td>
             <td>     </td>
             <td>    </td>
@@ -97,85 +98,94 @@ Meet your classmates:
         <tr>
             <td>  Sept 21  </td>
             <td>  Visualization I  </td>
+            <td>   </td>
             <td>  LAB 05 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Sept 28  </td>
-            <td>  LAB 06 </td>
             <td>  Visualization II  </td>
             <td>     </td>
-            <td>    </td>
+            <td>  LAB 06 </td>
+            <td>     </td>
+            <td>     </td>
         </tr> 
         <tr>
-            <td>  Oct 5  </td>
-            <td>  LAB 07 </td>
+            <td>  Oct 5  </td> 
             <td>  Visualization III  </td>
             <td>     </td>
-            <td>    </td>
+            <td>  LAB 07 </td>
+            <td>     </td>
+            <td>     </td>
         </tr> 
         <tr>
             <td>  Oct 12  </td>
-            <td>  LAB 08 </td>
             <td>  Dashboards in R Markdown  </td>
+            <td>   </td>
+            <td>  LAB 08 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Oct 19  </td>
-            <td>  LAB 09 </td>
             <td>  Data Ingestion  </td>
-            <td>     </td>
+            <td>   </td>
+            <td>  LAB 09 </td>            
+            <td>    </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Oct 26  </td>
-            <td>  LAB 10 </td>
             <td>  Joining Data  </td>
+            <td>   </td>
+            <td>  LAB 10 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 2  </td>
-            <td>  LAB 11 </td>
             <td>  GitHub for Project Management  </td>
+            <td>   </td>
+            <td>  LAB 11 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 9  </td>
-            <td>  LAB 12 </td>
             <td>  Programming & Simulation  </td>
+            <td>   </td>
+            <td>  LAB 13 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 16  </td>
-            <td>  LAB 13 </td>
             <td>  Text Analysis  </td>
+            <td>   </td>
+            <td>  LAB 14 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 23  </td>
-            <td>  --- </td>
             <td>  Final Project  </td>
-            <td>     </td>
+            <td>    </td>
+            <td>    </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 30  </td>
-            <td>  --- </td>
             <td>  Thanksgiving  </td>
-            <td>     </td>
+            <td>    </td>
+            <td>    </td>
             <td>    </td>
         </tr> 
         <tr>
             <td>  Dec 7  </td>
-            <td>  --- </td>
             <td>  Final Project  </td>
-            <td>     </td>
+            <td>    </td>
+            <td>    </td>
             <td>    </td>
         </tr> 
 </tbody>
