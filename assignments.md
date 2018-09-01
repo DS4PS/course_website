@@ -295,7 +295,7 @@ Mine, personally, was the package that allows you to create comic strip graphics
 
 [xkcd comics](https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs)
 
-We warned up-front, this assignment might be overwhelming in you are wading into a new community where the technical language is unfamiliar and the volume of information vast. There are currently over 13,000 packages available in R! That is partly the point of the assignment - recognizing the sheer volume of creativity surrounding the R community. But also learning how to find some sources that make the content accessible. Here are a few to get you started:
+Be warned up-front, this assignment might be overwhelming in you are wading into a new community where the technical language is unfamiliar and the volume of information vast. There are currently over 13,000 packages available in R! That is partly the point of the assignment - recognizing the sheer volume of creativity surrounding the R community. But also learning how to find some sources that make the content accessible. Here are a few to get you started:
 
 [awesome r](https://awesome-r.com/)
 
