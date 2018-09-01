@@ -79,6 +79,30 @@ Download an R Markdown Template for labs [HERE](https://cdn.rawgit.com/DS4PS/Dat
 Check out some [NICE THEMES](http://www.datadreaming.org/post/r-markdown-theme-gallery/) for R Markdown documents.
 
 
+## Style Guides
+
+Style guides are the hand-writing of the coding world. Some people have really nice code style, some people have really sloppy code that is hard to read. Consider the readibility of this:
+
+```r
+y<-cut(rank(x),breaks=seq(from=1,to=100,by=10),labels=paste("X",1:10,sep=""))
+```
+Versus:
+
+```r
+y <- cut( rank( x ), breaks=seq( from=1, to=100, by=10 ), labels=paste( "X", 1:10, sep="" ) )
+```
+
+Do yourself and all of your future collaborators a favor and try to develop a consistent coding style. There are two popular style guides for R:
+
+* [The Google R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+* [The Tidyverse Style Guide](http://style.tidyverse.org/index.html)
+
+Think of these suggestions as good habits that will make your life easier and will improve your ability to collaborate with others. And remember, your most important collaborator is yourself two months from now! 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/W-Cz-LK16g4?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br>
+
 ## Collaboration Tools
 
 Working in groups [is hard](https://www.ted.com/talks/clay_shirky_on_institutions_versus_collaboration). Most work is done in groups. As a result, project management is a non-trivial task that should not be approached in an ad-hoc fashion. The field of data science has inherited many great collaboration tools that were developed to manage large teams of software engineers, but are being used for many other creative purposes:
