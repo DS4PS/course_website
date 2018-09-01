@@ -169,7 +169,7 @@ library(tidyverse)
 ```
 
 
-### Developing Expertise
+## Developing Expertise
 
 Many of you are new to the domain of data science. One easy way to develop expertise is to start a [Feedly account](https://feedly.com) in order to follow thought leaders in the field using a daily news digest.
 
@@ -210,7 +210,7 @@ Either way, add some data science to your news feeds to increase your exposure t
 
 For those that are new to data science, I have compiled some useful resources for getting acquainted with R and the data science community, as well as some notable applications of data science in the public and nonprofit sectors.
 
-http://www.lecy.info/r-for-public-policy
+[Ds4PS Resources](http://www.lecy.info/r-for-public-policy)
 
 </div>
 <br><br><br>
