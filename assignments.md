@@ -195,6 +195,8 @@ Meet your classmates:
 
 Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one lab.
 
+You will submit labs via Canvas at <http://canvas.asu.edu>. 
+
 -----------------
 <br><br>
 
