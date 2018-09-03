@@ -128,7 +128,7 @@ textbooks:
   required (y/n): n
 - title: Modern Dive, Intro to Stats and Data Sciences via R
   authors: Chester Ismay & Albert Y. Kim
-  edition: Not Required
+  edition: Free Online
   link: https://moderndive.com/4-tidy.html
   required (y/n): n  
 - title: Big Book of Dashboards
