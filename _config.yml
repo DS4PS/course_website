@@ -126,11 +126,18 @@ textbooks:
   edition: Free Online
   link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
   required (y/n): n
+- title: Modern Dive: An Introduction to Statistical and Data Sciences via R
+  authors: Chester Ismay & Albert Y. Kim
+  edition: Not Required
+  link: https://moderndive.com/4-tidy.html
+  required (y/n): n  
 - title: Big Book of Dashboards
   authors: Smith, Smith, and Johnson
   edition: Not Required
   link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
   required (y/n): n
+
+  
 
 
 
