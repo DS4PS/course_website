@@ -80,7 +80,7 @@ Meet your classmates:
             <td>     </td>
         </tr>
         <tr>
-            <td>  Sept 7  </td>
+            <td>  Sept 9  </td>
             <td>  Logical Operators  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/logical-statements.html"><b> CH4 </b></a>   </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-03-instructions.html"><b>LAB 03</b></a>  </td>
@@ -88,7 +88,7 @@ Meet your classmates:
             <td>    </td>
         </tr>
         <tr>
-            <td>  Sept 14  </td>
+            <td>  Sept 16  </td>
             <td>  Descriptive Analysis  </td>
             <td>   </td>
             <td>  LAB 04 </td>
