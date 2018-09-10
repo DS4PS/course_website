@@ -90,13 +90,14 @@ Meet your classmates:
         <tr>
             <td>  Sept 16  </td>
             <td>  Descriptive Analysis  </td>
-            <td>   </td>
-            <td>  LAB 04 </td>
-            <td>     </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/the-dplyr-package.html"><b> CH5 </b></a>
+                  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-recipes.html"><b> CH7 </b></a></td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-04-instructions.html"><b>LAB 04</b></a> </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>PARCELS</b></a>  </td>
             <td>    </td>
         </tr>    
         <tr>
-            <td>  Sept 21  </td>
+            <td>  Sept 23  </td>
             <td>  Visualization I  </td>
             <td>   </td>
             <td>  LAB 05 </td>
@@ -104,7 +105,7 @@ Meet your classmates:
             <td>    </td>
         </tr> 
         <tr>
-            <td>  Sept 28  </td>
+            <td>  Sept 30  </td>
             <td>  Visualization II  </td>
             <td>     </td>
             <td>  LAB 06 </td>
