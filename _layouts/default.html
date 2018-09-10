@@ -125,7 +125,7 @@
       
         <div class="col-lg-5 col-md-3 col-xs-4">
           <table>
-                {% for link in page.footer %}
+                {% for link in site.footer %}
                     {% if link.url contains 'http' %}
                         {% assign domain = '' %}
                     {% else %}
