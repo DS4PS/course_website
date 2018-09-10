@@ -97,7 +97,7 @@ Meet your classmates:
             <td>    </td>
         </tr>    
         <tr>
-            <td>  Sept 21  </td>
+            <td>  Sept 23  </td>
             <td>  Visualization I  </td>
             <td>   </td>
             <td>  LAB 05 </td>
@@ -105,7 +105,7 @@ Meet your classmates:
             <td>    </td>
         </tr> 
         <tr>
-            <td>  Sept 28  </td>
+            <td>  Sept 30  </td>
             <td>  Visualization II  </td>
             <td>     </td>
             <td>  LAB 06 </td>
