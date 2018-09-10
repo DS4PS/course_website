@@ -125,26 +125,25 @@
       
         <div class="col-lg-5 col-md-3 col-xs-4">
           <table>
-                {% for link in site.footer %}
-                    {% if link.url contains 'http' %}
+                {% for item in site.footer %}
+                    {% if item.url contains 'http' %}
                         {% assign domain = '' %}
                     {% else %}
                         {% assign domain = site.url %}
                     {% endif %}
-                    {% if link.url == page.url %}
+                    {% if item.url == page.url %}
                         {% assign current = ' class="uk-active"' %}
                     {% else %}
                         {% assign current = null %}
                     {% endif %}
-                    {% if link.title %}
-                        
-                   {% if link.url contains 'http' %} 
+                    {% if item.title %}
+                   {% if item.url contains 'http' %} 
                     <tr>
-                      <td id="footer" ><a href="{{ link.url }}" target="_blank"; style="color: black" >{{ link.title }}</a></td>
+                      <td id="footer" ><a href="{{ item.url }}" target="_blank"; style="color: black" >{{ item.title }}</a></td>
                  </tr>
                    {% else %} 
                     <tr>
-                      <td id="footer" ><a href="{{ domain }}/{{ site.github_info.website-repo }}/{{ link.url }}" style="color: black">{{ link.title }}</a></td>
+                      <td id="footer" ><a href="{{ domain }}/{{ site.github_info.website-repo }}/{{ item.url }}" style="color: black">{{ item.title }}</a></td>
                  </tr>
                  {% endif %}
                     {% endif %}
