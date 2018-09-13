@@ -91,7 +91,7 @@ Meet your classmates:
             <td>  Sept 16  </td>
             <td>  Descriptive Analysis  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/the-dplyr-package.html"><b> CH5 </b></a>
-                  <a href="https://ds4ps.github.io/Data-Science-Class/LECTURES/LECT-05-data-verbs.html"><b> LECT5 </b></a>
+                  <a href="https://ds4ps.github.io/Data-Science-Class/LECTURES/CH-05-data-verbs.html"><b> LECT5 </b></a>
                   <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/data-recipes.html"><b> CH7 </b></a></td>
                   <a href="https://ds4ps.github.io/Data-Science-Class/LECTURES/LECT-07-data-recipes.html"><b> LECT7 </b></a></td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-04-instructions.html"><b>LAB 04</b></a> </td>
