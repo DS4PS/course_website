@@ -102,7 +102,7 @@ Meet your classmates:
             <td>  Sept 23  </td>
             <td>  Visualization I  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/the-plot-function.html"><b> CH9 </b></a></td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-054-instructions.html"><b> LAB 05 </b></a> </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-05-instructions.html"><b> LAB 05 </b></a> </td>
             <td>  <a href="https://github.com/DS4PS/Data-Science-Class/blob/master/DATA/CASchools.R"><b> Schools </b></a></td> 
             <td>    </td>
         </tr> 
