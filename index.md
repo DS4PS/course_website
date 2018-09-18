@@ -27,8 +27,6 @@ instructor:
    scholar_url: https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en
    linked_in_url:
 
-
-
 textbooks:
 - title: R Cookbook. Proven recipes
   authors: Paul Teetor
@@ -55,8 +53,6 @@ textbooks:
   edition: Not Required
   link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
   required (y/n): n
-
-  
 
 --- 
 
