@@ -19,16 +19,8 @@ a {
 
 
 <div class = "uk-container uk-container-small">
-  
+ 
 <br><br>
-
-### Class Roster
-
-Meet your classmates:
-
-[ Roster for Data Science for the Public Sector, Fall 2018 ](https://ds4ps.github.io/Data-Science-Class/MISC/bios_lab_01/ROSTER.html)
-
-<br>
 
 ### Attend in-person review sessions: 
 
@@ -43,11 +35,19 @@ Meet your classmates:
 * We will not meet Nov 22nd 
 
 
+<br><br>
+
+## Topics
+{:.no_toc}
+* TOC
+{:toc}
+
+
+<br><br>
+
 
 
 # Labs
-
-
 
 <table class="uk-table uk-table-striped">
 <thead>
@@ -57,7 +57,6 @@ Meet your classmates:
    <th>READING</th>
    <th>LAB</th>
    <th>DATA</th>
-   <th>SOLUTIONS</th>
 </tr>
 </thead>
 <tbody>
@@ -67,7 +66,6 @@ Meet your classmates:
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/introduction-to-r.html"><b> CH1 </b></a>   </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-instructions.html"><b>LAB 01</b></a>   </td>
             <td>  no data </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-01-SOLUTION.html"><b>SOLUTIONS</b></a>   </td>
         </tr>
         <tr>
             <td>  Sept 2  </td>
@@ -77,7 +75,6 @@ Meet your classmates:
             </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS/lab-02-instructions.html"><b>LAB 02</b></a>  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>PARCELS</b></a>  </td>
-            <td>     </td>
         </tr>
         <tr>
             <td>  Sept 9  </td>
@@ -85,7 +82,6 @@ Meet your classmates:
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/logical-statements.html"><b> CH4 </b></a>   </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-03-instructions.html"><b>LAB 03</b></a>  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>PARCELS</b></a>   </td>
-            <td>    </td>
         </tr>
         <tr>
             <td>  Sept 16  </td>
@@ -96,7 +92,6 @@ Meet your classmates:
                   <a href="https://ds4ps.github.io/Data-Science-Class/LECTURES/LECT-07-data-recipes.html"><b> LECT7 </b></a> </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-04-instructions.html"><b>LAB 04</b></a> </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/DATA/syr_parcels.html"><b>PARCELS</b></a>  </td>
-            <td>    </td>
         </tr>    
         <tr>
             <td>  Sept 23  </td>
@@ -104,14 +99,12 @@ Meet your classmates:
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/the-plot-function.html"><b> CH9 </b></a></td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-05-instructions.html"><b> LAB 05 </b></a> </td>
             <td>  <a href="https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/DATA/CASchools.R"><b> Schools </b></a></td> 
-            <td>    </td>
         </tr> 
         <tr>
             <td>  Sept 30  </td>
             <td>  Visualization II  </td>
             <td>     </td>
             <td>  LAB 06 </td>
-            <td>     </td>
             <td>     </td>
         </tr> 
         <tr>
@@ -120,7 +113,6 @@ Meet your classmates:
             <td>     </td>
             <td>  LAB 07 </td>
             <td>     </td>
-            <td>     </td>
         </tr> 
         <tr>
             <td>  Oct 12  </td>
@@ -128,14 +120,12 @@ Meet your classmates:
             <td>   </td>
             <td>  LAB 08 </td>
             <td>     </td>
-            <td>    </td>
         </tr> 
         <tr>
             <td>  Oct 19  </td>
             <td>  Data Ingestion  </td>
             <td>   </td>
             <td>  LAB 09 </td>            
-            <td>    </td>
             <td>    </td>
         </tr> 
         <tr>
@@ -144,7 +134,6 @@ Meet your classmates:
             <td>   </td>
             <td>  LAB 10 </td>
             <td>     </td>
-            <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 2  </td>
@@ -152,7 +141,6 @@ Meet your classmates:
             <td>   </td>
             <td>  LAB 11 </td>
             <td>     </td>
-            <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 9  </td>
@@ -160,7 +148,6 @@ Meet your classmates:
             <td>   </td>
             <td>  LAB 12 </td>
             <td>     </td>
-            <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 16  </td>
@@ -168,12 +155,10 @@ Meet your classmates:
             <td>   </td>
             <td>  LAB 13 </td>
             <td>     </td>
-            <td>    </td>
         </tr> 
         <tr>
             <td>  Nov 23  </td>
             <td>  FINAL PROJECT  </td>
-            <td>    </td>
             <td>    </td>
             <td>    </td>
         </tr> 
@@ -182,14 +167,12 @@ Meet your classmates:
             <td>  Thanksgiving  </td>
             <td>    </td>
             <td>    </td>
-            <td>    </td>
         </tr> 
         <tr>
             <td>  Dec 7  </td>
             <td>  FINAL PROJECT  </td>
             <td>    </td>
             <td>  DASHBOARD  </td>
-            <td>    </td>
         </tr> 
 </tbody>
 </table>
@@ -217,10 +200,6 @@ Discussion boards are worth 20% of the final grade. We will be using Yellowdig, 
 Yellowdig is a Facebook-style discussion board that is organized different than traditional boards that are centered around threads on topics. Instead it has a feed where students create "pins" based upon the topic that week. You receive points for posting pins, for the resonses that you get to your ideas, for interacting on other students' pins, and when you receive accolades from students or the professor. In this way, it measures engagement rather than word counts used on traditional discussion board (if you post a bunch of long and boring blogs no one will respond to your pins).
 
 The labs in the course focus on the technical skills of data science, so these discussions are meant to balance the class with an opportunity to explore some interesting topics and trends in technology and society. They are open-ended as a means to invite curiosity and critical thinkings.
-
-<br>
-----------------
-<br>
 
 
 ### Topics:
@@ -328,9 +307,46 @@ For your post this week, please select one graphic from their [Gallery](http://w
 --------------
 <br>
 
+### Sept 17 - Sept 23: Data Visualization
+
+To kick-off our data visualization segment of the course, this exercise is designed to introduce you to some cool data visualizaion communities. 
+
+[Makeover Mondays](http://www.makeovermonday.co.uk/) is a weekly exercise where an organization shares a mediocre visualization and the data used to create it, then volunteers from around the world work to create a more informative or compelling visualization.
+
+For your post this week, please select one graphic from their [Gallery](http://www.makeovermonday.co.uk/gallery/), post it to YellowDig, and explain what you think makes the graphic compelling? What works? **Specific, how did the creators use graphical or design elements to generate insight from the data, create a story, and leave the viewer with a clear take-away?**
+
+
+<br>
+--------------
+<br>
+
+
+### Sept 24 - Sept 30: Bad Graphs
+
+There is a lot of science behind data visualization, but also an art to storytelling with data that is hard to explain or teach. The best way to gain skill in this area is regularly consume interesting graphics. David McCandless is one of the best ambassadors for the field of graphic design. Check out his TED Talk,  and some excerpts from his book [*Information is Beautiful*]( https://github.com/DS4PS/Data-Science-Class/raw/master/READINGS/mccandless_information_is_beautiful.pdf).
+
+<div style="max-width:800px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/david_mccandless_the_beauty_of_data_visualization" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+Unfortunatly, it is much easier to create tragically bad graphics than it is to create good graphics. For your blog this week, read the *Calling Bullshit* overview on [proportional ink](https://callingbullshit.org/tools/tools_proportional_ink.html) and [misleading axes](https://callingbullshit.org/tools/tools_misleading_axes.html) to develop some sensitivity about how to lie with graphics. 
+
+Find a graph that violates one of these principles, or commits an equally egregious visualization crime. Share the graph and explain what offense has been committed. 
+
+This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
+
+
+<br>
+--------------
+<br>
 
 
 
+# Class Roster
+
+Meet your classmates:
+
+[ Roster for Data Science for the Public Sector, Fall 2018 ](https://ds4ps.github.io/Data-Science-Class/MISC/bios_lab_01/ROSTER.html)
+
+<br>
 
 <br><br><br><br>
 </div>
