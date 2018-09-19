@@ -23,14 +23,14 @@ a {
 <br><br>
 
 ## Topics
+
 {:.no_toc}
 * TOC
 {:toc}
 
 
-<br><br>
 --------
-<br><br>
+<br>
 
 
 
@@ -49,9 +49,10 @@ Attend in-person sessions at the following times and locations:
 * We will not meet Nov 22nd 
 
 
-<br><br>
+<br>
+
 -----------------
-<br><br>
+<br>
 
 # Labs
 
@@ -189,6 +190,8 @@ Labs are worth 60% of your grade. They are graded pass-fail. You get to drop one
 
 You will submit labs via Canvas at <http://canvas.asu.edu>. 
 
+<br>
+
 -----------------
 <br><br>
 
@@ -255,8 +258,10 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br>
-----------------
+
+-----------------
 <br>
+
 
 ### Aug 31-Sept 7: The Perils of Open Data
 
@@ -270,8 +275,10 @@ This example poses many interesting dilemas. The Obama campaign was celebrated f
 > For your disccusion this week, post a pin with some thoughts about the potential downside of big & open data, ethics in a time of big data, and what sorts of privacy rules you would devise to balance the benefits that can come from access to data along with challenges of data governance.
 
 <br>
---------------
+
+-----------------
 <br>
+
 
 ### Sept 9 - Sept 16: The Best of R
 
@@ -297,8 +304,10 @@ Be warned up-front, this assignment might be overwhelming in you are wading into
 
 
 <br>
---------------
+
+-----------------
 <br>
+
 
 ### Sept 17 - Sept 23: Data Visualization
 
@@ -310,8 +319,10 @@ For your post this week, please select one graphic from their [Gallery](http://w
 
 
 <br>
---------------
+
+-----------------
 <br>
+
 
 ### Sept 17 - Sept 23: Data Visualization
 
@@ -323,8 +334,10 @@ For your post this week, please select one graphic from their [Gallery](http://w
 
 
 <br>
---------------
+
+-----------------
 <br>
+
 
 
 ### Sept 24 - Sept 30: Bad Graphs
@@ -341,8 +354,10 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 
 
 <br>
---------------
+
+-----------------
 <br>
+
 
 
 
@@ -411,8 +426,10 @@ See the [Resources](https://ds4ps.github.io/course_website/resources/) tab for s
 
 
 <br>
-----------
+
+-----------------
 <br>
+
 
 # Grades
 
@@ -432,8 +449,10 @@ Discussion boards will be used to reflect upon case studies of data science tool
 
 
 <br>
-----------
+
+-----------------
 <br>
+
 
 # Class Roster
 
