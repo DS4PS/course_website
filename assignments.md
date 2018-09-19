@@ -409,7 +409,9 @@ You will find this background information helpful as you start using R:
 See the [Resources](https://ds4ps.github.io/course_website/resources/) tab for some additional information about R and R Studio.
 
 
-
+<br>
+----------
+<br>
 
 # Grades
 
@@ -428,10 +430,9 @@ Learning a programming language is a lot like learning a natural language in tha
 Discussion boards will be used to reflect upon case studies of data science tools in practice. The final project will require you to practice skills from the semester by building a basic dashboard.
 
 
-
 <br>
 ----------
-<br><br>
+<br>
 
 # Class Roster
 
