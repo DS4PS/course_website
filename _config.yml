@@ -66,9 +66,6 @@ header:
 #  url: /
 
 - title: Course Schedule
-  url: welcome2/
-
-- title: Assignments
   url: assignments/
    
 - title: Textbook
