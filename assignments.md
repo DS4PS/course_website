@@ -158,7 +158,7 @@ Meet your classmates:
             <td>  Nov 9  </td>
             <td>  Programming & Simulation  </td>
             <td>   </td>
-            <td>  LAB 13 </td>
+            <td>  LAB 12 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
@@ -166,7 +166,7 @@ Meet your classmates:
             <td>  Nov 16  </td>
             <td>  Text Analysis  </td>
             <td>   </td>
-            <td>  LAB 14 </td>
+            <td>  LAB 13 </td>
             <td>     </td>
             <td>    </td>
         </tr> 
@@ -230,16 +230,16 @@ DATES | TOPICS
 Aug 24-Sept 7 | Promise of Big Open Data 
 Aug 31-Sept 7 | Perils of Big Open Data 
 Sept 7-Sept 14 | Best of R Packages 
-Sept 14-Sept 21 | Smart Cities 
-Sept 21-Sept 28 | Data APIs 
-Sept 28-Oct 5 | Bad Graphs 
-Oct 5-Oct 12 | Good Graphing Packages 
-Oct 12-Oct 19 | Dashboard Design 
-Oct 19-Oct 26 | Managing with Data  
-Oct 26-Nov 2 | Moneyballing Government? 
-Nov 2-Nov 9 | Open Innovation 
-Nov 9-Nov 16 | The Challenges of Big Data 
-Nov 16-Nov 23 | Social Media Tools 
+Sept 17-Sept 23 | Data Viz
+Sept 24-Sept 30 | Bad Graphs 
+Oct 1-Oct 7 | Good Graphing Packages
+Oct 8-Oct 14 |  Data APIs
+Oct 15-Oct 21 | Dashboard Design 
+Oct 22-Oct 28 | Managing with Data  
+Oct 29-Nov 4 | Moneyballing Government? 
+Nov 5-Nov 11 | Open Innovation 
+Nov 12-Nov 18 | Smart Cities 
+Nov 19-Nov 25 | Social Media Tools 
 
 <br>
 ----------------
@@ -288,7 +288,7 @@ This example poses many interesting dilemas. The Obama campaign was celebrated f
 --------------
 <br>
 
-### Sep 7-Sept 14: The Best of R
+### Sept 9 - Sept 16: The Best of R
 
 You might not have heard, but [nerd is the new black](https://www.wsj.com/articles/SB10001424127887323478304578332850293360468), data science is the [sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), and there is [nothing hotter](http://www.startfactor.pt/uploads/3/8/5/0/38505347/r-is-still-hot.pdf) than learning R.
 
@@ -315,7 +315,18 @@ Be warned up-front, this assignment might be overwhelming in you are wading into
 --------------
 <br>
 
+### Sept 17 - Sept 23: Data Visualization
 
+To kick-off our data visualization segment of the course, this exercise is designed to introduce you to some cool data visualizaion communities. 
+
+[Makeover Mondays](http://www.makeovermonday.co.uk/) is a weekly exercise where an organization shares a mediocre visualization and the data used to create it, then volunteers from around the world work to create a more informative or compelling visualization.
+
+For your post this week, please select one graphic from their [Gallery](http://www.makeovermonday.co.uk/gallery/), post it to YellowDig, and explain what you think makes the graphic compelling? What works? **Specific, how did the creators use graphical or design elements to generate insight from the data, create a story, and leave the viewer with a clear take-away?**
+
+
+<br>
+--------------
+<br>
 
 
 
