@@ -54,6 +54,34 @@ Attend in-person sessions at the following times and locations:
 -----------------
 <br>
 
+
+
+
+# Grades
+
+Your grade is comprised of the following:
+ 
+* 60% - Weekly labs  
+* 20% - Final project 
+* 20% - Discussion boards 
+
+Labs will give you practice with the key concepts and functions of the week. They are graded pass-fail and you get to drop one lab (chances are you will have one rough week this semester). To pass you need to get at least half of the questions correct and demonstrate that you understand the material. 
+
+This grading system is designed as a way for you to focus on the big picture each week and not worry if a specific function or model is not working properly. Computer languages can be unforgiving in the sense that one minor error can prevent the program from running. 
+
+Learning a programming language is a lot like learning a natural language in that it is easy to become conversant enough to find your way around a city and order some food at a restaurant, but much harder to become fluent. The goal is for you to become conversant in R by the end of the semester so that you can begin using tutorials and discussion forums to further your journey.
+
+Discussion boards will be used to reflect upon case studies of data science tools in practice. The final project will require you to practice skills from the semester by building a basic dashboard.
+
+
+<br>
+
+-----------------
+<br>
+
+
+
+
 # Labs
 
 <table class="uk-table uk-table-striped">
@@ -431,27 +459,7 @@ See the [Resources](https://ds4ps.github.io/course_website/resources/) tab for s
 <br>
 
 
-# Grades
 
-Your grade is comprised of the following:
- 
-* 60% - Weekly labs  
-* 20% - Final project 
-* 20% - Discussion boards 
-
-Labs will give you practice with the key concepts and functions of the week. They are graded pass-fail and you get to drop one lab (chances are you will have one rough week this semester). To pass you need to get at least half of the questions correct and demonstrate that you understand the material. 
-
-This grading system is designed as a way for you to focus on the big picture each week and not worry if a specific function or model is not working properly. Computer languages can be unforgiving in the sense that one minor error can prevent the program from running. 
-
-Learning a programming language is a lot like learning a natural language in that it is easy to become conversant enough to find your way around a city and order some food at a restaurant, but much harder to become fluent. The goal is for you to become conversant in R by the end of the semester so that you can begin using tutorials and discussion forums to further your journey.
-
-Discussion boards will be used to reflect upon case studies of data science tools in practice. The final project will require you to practice skills from the semester by building a basic dashboard.
-
-
-<br>
-
------------------
-<br>
 
 
 # Class Roster
