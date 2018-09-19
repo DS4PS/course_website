@@ -22,7 +22,19 @@ a {
  
 <br><br>
 
-## Review Sessions: 
+## Topics
+{:.no_toc}
+* TOC
+{:toc}
+
+
+<br><br>
+--------
+<br><br>
+
+
+
+# Review Sessions: 
 
 Attend in-person sessions at the following times and locations:
 
@@ -38,17 +50,8 @@ Attend in-person sessions at the following times and locations:
 
 
 <br><br>
-
-## Topics
-{:.no_toc}
-* TOC
-{:toc}
-
-
+-----------------
 <br><br>
---------
-<br><br>
-
 
 # Labs
 
