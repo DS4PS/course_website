@@ -71,7 +71,17 @@ This grading system is designed as a way for you to focus on the big picture eac
 
 Learning a programming language is a lot like learning a natural language in that it is easy to become conversant enough to find your way around a city and order some food at a restaurant, but much harder to become fluent. The goal is for you to become conversant in R by the end of the semester so that you can begin using tutorials and discussion forums to further your journey.
 
-Discussion boards will be used to reflect upon case studies of data science tools in practice. The final project will require you to practice skills from the semester by building a basic dashboard.
+The YellowDig discussion boards are used to introduce you to the data science ecosystem. We cannot cover a lot of topics in-depth, so the discussions are a chance to explore some resources or reflect on a specific article. You need to earn at least 100 points through the semester by posting topics and interacting with peers. The points are earned as follows: 
+
+* 5 points for a new pin with at least 50 words.
+* 2 points for a comment made to another pin.
+* 1 point if you receive a comment on your pin. 
+* 1 point for liking another pin.
+* 5 points if you earn an instructor badge for an informative post.
+* max of 20 points can be earned each week. 
+* 100 points or more earns you an A for discussions. 
+
+The final project will require you to practice skills from the semester by building a basic dashboard.
 
 
 <br>
