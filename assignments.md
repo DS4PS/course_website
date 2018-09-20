@@ -141,11 +141,12 @@ The final project will require you to practice skills from the semester by build
         <tr>
             <td>  Sept 23  </td>
             <td>  Visualization I  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/the-plot-function.html"><b> CH9 </b></a></td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/TEXTBOOK/docs/the-plot-function.html"><b> CH9 </b></a>
+                  <a href="https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/HANDOUTS/regression_visual_example.R"><b> EXAMPLE </b></a>  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-05-instructions.html"><b> LAB 05 </b></a> </td>
             <td>  <a href="https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/DATA/CASchools.R"><b> Schools </b></a></td> 
         </tr> 
-        <tr>
+        <tr>  
             <td>  Sept 30  </td>
             <td>  Visualization II  </td>
             <td>     </td>
