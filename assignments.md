@@ -157,15 +157,15 @@ The final project will require you to practice skills from the semester by build
         <tr> 
             <td>  Oct 5  </td> 
             <td>  Visualization III  </td>
-            <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/shiny.html"><b> SHINY  </b></a>
-                  <a href="https://cdn.rawgit.com/DS4PS/Data-Science-Class/53c986f1/TEMPLATES/ShinyWidgetsDemo.Rmd"><b> DEMO  </b></a></td>
+            <td>  <a href="https://cdn.rawgit.com/DS4PS/Data-Science-Class/53c986f1/TEMPLATES/ShinyWidgetsDemo.Rmd"><b> DEMO  </b></a></td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-07-instructions.html"><b> LAB 07 </b></a> </td>
             <td>  <a href="https://cran.r-project.org/web/packages/Lahman/Lahman.pdf#Teams"><b> Lahman </b></a>   </td>
         </tr> 
         <tr> 
             <td>  Oct 12  </td>
             <td>  Dashboards in R Markdown  </td>
-            <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/index.html"><b> FLEXDASHBOARDS  </b></a> </td>
+            <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/shiny.html"><b> SHINY  </b> . </a>
+                  <a href="https://rmarkdown.rstudio.com/flexdashboard/index.html"><b> FLEXDASHBOARDS  </b></a> </td>
             <td>  LAB 08 </td>
             <td>     </td>
         </tr> 
