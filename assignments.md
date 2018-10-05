@@ -388,11 +388,13 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 
 
 
-### Oct 1 - Oct 7: R Graphics Packages
+### Oct 1 - Oct 7:  R Graphics Packages
 
 For labs thus far we have used the core R graphics engine, but we have not utilized some of the many useful [graphics packages](https://cran.r-project.org/web/views/Graphics.html) in R. This discussion topic offers an opportunity to explore some options.
 
-Your task is to select a specialized graphic that you could use in your own research or a professional life, then describe what data you would like to visualize using the plot. Reference what R package you would need for the task.
+Your task is to select a specialized graphic that you could use in your own research or professional life, then describe what data or topic from your own work the visualization would be useful for. Reference what R package you would need for the task.
+
+For example, I might say that I work creating budgets for a government organization. I could use a [Sankey Diagram](https://www.getrichslowly.org/sankey-diagrams/) from the [D3 Package](https://www.r-graph-gallery.com/sankey-diagram/) to visualize our budget. 
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
