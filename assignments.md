@@ -344,20 +344,6 @@ Be warned up-front, this assignment might be overwhelming in you are wading into
 [r-bloggers](https://www.r-bloggers.com/)
 
 
-<br>
-
------------------
-<br>
-
-
-### Sept 17 - Sept 23: Data Visualization
-
-To kick-off our data visualization segment of the course, this exercise is designed to introduce you to some cool data visualizaion communities. 
-
-[Makeover Mondays](http://www.makeovermonday.co.uk/) is a weekly exercise where an organization shares a mediocre visualization and the data used to create it, then volunteers from around the world work to create a more informative or compelling visualization.
-
-For your post this week, please select one graphic from their [Gallery](http://www.makeovermonday.co.uk/gallery/), post it to YellowDig, and explain what you think makes the graphic compelling? What works? **Specific, how did the creators use graphical or design elements to generate insight from the data, create a story, and leave the viewer with a clear take-away?**
-
 
 <br>
 
@@ -399,6 +385,21 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 -----------------
 <br>
 
+
+
+### Oct 1 - Oct 7: R Graphics Packages
+
+For labs thus far we have used the core R graphics engine, but we have not utilized some of the many useful [graphics packages](https://cran.r-project.org/web/views/Graphics.html) in R. This discussion topic offers an opportunity to explore some options.
+
+Your task is to select a specialized graphic that you could use in your own research or a professional life, then describe what data you would like to visualize using the plot. Reference what R package you would need for the task.
+
+You will find sites like the [R Graphs Gallery}(https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
+
+
+<br>
+
+-----------------
+<br>
 
 
 
