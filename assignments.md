@@ -164,8 +164,8 @@ The final project will require you to practice skills from the semester by build
         <tr> 
             <td>  Oct 12  </td>
             <td>  Dashboards in R Markdown  </td>
-                  <a href="https://rmarkdown.rstudio.com/flexdashboard/shiny.html"><b> SHINY  </b> | </a>
-            <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/index.html"><b> FLEXDASHBOARDS  </b> 
+            <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/shiny.html"><b> SHINY  </b> | </a>
+                  <a href="https://rmarkdown.rstudio.com/flexdashboard/index.html"><b> FLEXDASHBOARDS  </b> 
                   </a> </td>
             <td>  LAB 08 </td>
             <td>     </td>
