@@ -410,7 +410,8 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 
 Planet Money had a [fascinating podcast](https://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding) about the rise and fall of women in computer science (you can see a short written synopse [here](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)). 
 
-![](/assets/img/women_in_cs.png)
+<img src="https://raw.githubusercontent.com/DS4PS/course_website/master/assets/img/women_in_cs.png" 
+alt="women in cs" width="400" />
 
 The part of the story I found most fascinating was the schools that were able to turn the trend around using a few simple rules, and create computer science programs that were 50% women. Start at [minute 13:00](https://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding) to learn how.
 
