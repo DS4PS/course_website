@@ -185,7 +185,7 @@ The final project will require you to practice skills from the semester by build
         </tr> 
         <tr>
             <td>  Nov 2  </td>
-            <td>  GitHub for Project Management  </td>
+            <td>  Maps  </td>
             <td>   </td>
             <td>  LAB 11 </td>
             <td>     </td>
