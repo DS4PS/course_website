@@ -262,9 +262,9 @@ Aug 31-Sept 7 | Perils of Big Open Data
 Sept 7-Sept 14 | Best of R Packages 
 Sept 17-Sept 23 | Data Viz
 Sept 24-Sept 30 | Bad Graphs 
-Oct 1-Oct 7 | Good Graphing Packages
-Oct 8-Oct 14 |  Data APIs
-Oct 15-Oct 21 | Dashboard Design 
+Oct 1-Oct 7 | Graphing Packages in R
+Oct 8-Oct 14 |  Your Professional Identity
+Oct 15-Oct 21 | Data APIs
 Oct 22-Oct 28 | Managing with Data  
 Oct 29-Nov 4 | Moneyballing Government? 
 Nov 5-Nov 11 | Open Innovation 
@@ -403,6 +403,25 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 
 -----------------
 <br>
+
+
+
+### Oct 8 - Oct 15:  Do you Data Science? 
+
+Planet Money had a [fascinating podcast](https://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding) about the rise and fall of women in computer science (you can see a short written synopse [here](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)). 
+
+![](assets/img/women_in_cs.png)
+
+The part of the story I found most fascinating was the schools that were able to turn the trend around using a few simple rules, and create computer science programs that were 50% women. Start at [minute 13:00](https://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding) to learn how.
+
+Most of you are social science or humanities students without a lot of background in computer programming. What has your experience been in this course? Would you have taken the class if it had been called "computer science" instead of "data science"? In the podcast women were marginalized in the field of computer science. The modern version of this story is public sector workers and nonprofit managers that are constantly told that they are not good with data, that they should rely on outside "experts" for this work. Based on your experiences this semester, how can we overcome these stereotypes to make government and social sectors more data-driven and more effective? 
+
+
+<br>
+
+-----------------
+<br>
+
 
 
 
