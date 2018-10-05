@@ -393,7 +393,7 @@ For labs thus far we have used the core R graphics engine, but we have not utili
 
 Your task is to select a specialized graphic that you could use in your own research or a professional life, then describe what data you would like to visualize using the plot. Reference what R package you would need for the task.
 
-You will find sites like the [R Graphs Gallery}(https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
+You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
 
 <br>
