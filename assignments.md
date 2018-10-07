@@ -172,7 +172,7 @@ The final project will require you to practice skills from the semester by build
         </tr> 
         <tr>
             <td>  Oct 19  </td>
-            <td>  Data Ingestion  </td>
+            <td>  Data IO (input, output)  </td>
             <td>   </td>
             <td>  LAB 09 </td>            
             <td>    </td>
