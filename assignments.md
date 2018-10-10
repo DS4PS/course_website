@@ -167,7 +167,7 @@ The final project will require you to practice skills from the semester by build
             <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/layouts.html"><b> FLEXDASHBOARD LAYOUTS  </b> 
                   </a> </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-08-instructions.html"><b> LAB 08 </b></a></td>
-            <td>     </td>
+            <td>  <a href="https://cran.r-project.org/web/packages/Lahman/Lahman.pdf#Teams"><b> Lahman </b></a>   </td>
         </tr> 
         <tr>
             <td>  Oct 19  </td>
