@@ -164,10 +164,9 @@ The final project will require you to practice skills from the semester by build
         <tr> 
             <td>  Oct 12  </td>
             <td>  Dashboards in R Markdown  </td>
-            <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/shiny.html"><b> SHINY  </b> | </a>
-                  <a href="https://rmarkdown.rstudio.com/flexdashboard/index.html"><b> FLEXDASHBOARDS  </b> 
+            <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/layouts.html"><b> FLEXDASHBOARD LAYOUTS  </b> 
                   </a> </td>
-            <td>  LAB 08 </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-08-instructions.html"><b> LAB 08 </b></a></td>
             <td>     </td>
         </tr> 
         <tr>
