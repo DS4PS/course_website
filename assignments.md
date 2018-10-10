@@ -243,7 +243,11 @@ You will submit labs via Canvas at <http://canvas.asu.edu>.
 # Discussion Boards
   
 
-Discussion boards are worth 20% of the final grade. We will be using Yellowdig, accessible on our course Canvas site:
+Discussion boards are worth 20% of the final grade. We will be using Yellowdig, accessible from the link below:
+
+**[YELLOWDIG BOARD](https://www.yellowdig.com/board/24436)**
+
+Or on our Canvas site:
 
 **[CANVAS PORTAL](http://www.canvas.asu.edu)**
 
