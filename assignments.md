@@ -431,7 +431,7 @@ Most of you are social science or humanities students without a lot of backgroun
 
 ### Oct 15 - Oct 21:  Useful Data APIs
 
-Part of the reason the field of data science has grown so much as a field in recent years is because of advances in computing technologies that allows us to run powerful programs and to work with large datasets on our own machines. But another important reason is that data has become so ubiquitous and cheap, but paradoxically also more valuable for organizations. 
+Part of the reason data science has grown so much as a field in recent years is because of advances in computing technologies that allows us to run powerful programs and to work with large datasets on our own machines. But another important reason is that data has become so ubiquitous and cheap, but paradoxically also more valuable for organizations. 
 
 Your skill level in data science can be measured by how quickly you can take a real-world problem and produce analysis that offers better solutions than the status quo. Analyzing the data is important, but the process of obtaining data is not a trivial step. Having knowledge about where to look for data, or how to augment your existing data, will help you be more effective as an analyst. 
 
