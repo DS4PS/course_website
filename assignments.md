@@ -162,7 +162,7 @@ The final project will require you to practice skills from the semester by build
             <td>  <a href="https://cran.r-project.org/web/packages/Lahman/Lahman.pdf#Teams"><b> Lahman </b></a>   </td>
         </tr> 
         <tr> 
-            <td>  Oct 12  </td>
+            <td>  Oct 14  </td>
             <td>  Dashboards in R Markdown  </td>
             <td>  <a href="https://rmarkdown.rstudio.com/flexdashboard/layouts.html"><b> LAYOUTS  </b> 
                   </a> </td>
@@ -170,55 +170,55 @@ The final project will require you to practice skills from the semester by build
             <td>  <a href="https://cran.r-project.org/web/packages/Lahman/Lahman.pdf#Teams"><b> Lahman </b></a>   </td>
         </tr> 
         <tr>
-            <td>  Oct 19  </td>
+            <td>  Oct 21  </td>
             <td>  Data IO (input, output)  </td>
             <td>   </td>
             <td>  LAB 09 </td>            
             <td>    </td>
         </tr> 
         <tr>
-            <td>  Oct 26  </td>
+            <td>  Oct 28  </td>
             <td>  Joining Data  </td>
             <td>   </td>
             <td>  LAB 10 </td>
             <td>     </td>
         </tr> 
         <tr>
-            <td>  Nov 2  </td>
+            <td>  Nov 4  </td>
             <td>  Maps  </td>
             <td>   </td>
             <td>  LAB 11 </td>
             <td>     </td>
         </tr> 
         <tr>
-            <td>  Nov 9  </td>
+            <td>  Nov 11  </td>
             <td>  Programming & Simulation  </td>
             <td>   </td>
             <td>  LAB 12 </td>
             <td>     </td>
         </tr> 
         <tr>
-            <td>  Nov 16  </td>
+            <td>  Nov 18  </td>
             <td>  Text Analysis  </td>
             <td>   </td>
             <td>  LAB 13 </td>
             <td>     </td>
         </tr> 
         <tr>
-            <td>  Nov 23  </td>
-            <td>  FINAL PROJECT  </td>
+            <td>  Nov 25  </td>
+            <td>  Thanksgiving Week  </td>
             <td>    </td>
             <td>    </td>
         </tr> 
         <tr>
-            <td>  Nov 30  </td>
-            <td>  Thanksgiving  </td>
+            <td>  Dec 2  </td>
+            <td>  Work on Final Project  </td>
             <td>    </td>
             <td>    </td>
         </tr> 
         <tr>
-            <td>  Dec 7  </td>
-            <td>  FINAL PROJECT  </td>
+            <td>  Fri. Dec 7  </td>
+            <td>  FINAL PROJECT DUE  </td>
             <td>    </td>
             <td>  DASHBOARD  </td>
         </tr> 
