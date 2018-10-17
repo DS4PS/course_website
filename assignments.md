@@ -173,7 +173,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Oct 28  </td>
             <td>  Data IO (input, output)  </td>
             <td>  <a href="http://rpubs.com/JamisonCrawford/readingtextdata"><b> Tutorial  </b></a>  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-09-instructions.html"><b> LAB 08 </b></a> </td> 
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-09-instructions.html"><b> LAB 09 </b></a> </td> 
             <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-"><b> CRASH DATA </b></a>  </td>
         </tr> 08
         <tr>
