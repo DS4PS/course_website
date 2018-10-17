@@ -201,7 +201,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Nov 18  </td>
             <td>  Text Analysis  </td>
             <td>   </td>
-            <td>  LAB 13 </td>
+            <td>  Work on Final Project  </td>
             <td>     </td>
         </tr> 
         <tr>
