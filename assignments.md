@@ -465,10 +465,6 @@ Altnernatively, you can report on an interesting package in R that uses a data A
 
 Managing with data is a double-edged sword, especially in the public sector. We have the good:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TpBcwGOvO80" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<br><br>
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TpBcwGOvO80?controls=0" frameborder="0" allowfullscreen></iframe>
 
 <br><br>
