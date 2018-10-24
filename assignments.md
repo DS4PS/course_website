@@ -451,12 +451,29 @@ https://theunitedstates.io/APIs/
 
 Altnernatively, you can report on an interesting package in R that uses a data API. Note, you do not have to use the API for the post, just identify what information is accessible through the system. 
 
+
+
 <br>
 
 -----------------
 <br>
 
 
+
+
+### Oct 22 - Oct 29:  Managing with Data
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TpBcwGOvO80" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xH_6_8NOfwI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+
+<br>
+-----------------
+<br>
 
 # Course Overview
 
