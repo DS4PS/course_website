@@ -174,7 +174,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Data IO (input, output)  </td>
             <td>  <a href="http://rpubs.com/JamisonCrawford/readingtextdata"><b> Tutorial  </b></a>  </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-09-instructions.html"><b> LAB 09 </b></a> </td> 
-            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-"><b> CRASH DATA </b></a>  </td>
+            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-08"><b> CRASH DATA </b></a>  </td>
         </tr>
         <tr>
             <td>  Oct 28  </td>
@@ -188,7 +188,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Maps  </td>
             <td>   </td>
             <td>  LAB 11 </td>
-            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-"><b> CRASH DATA </b></a>   </td>
+            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-08"><b> CRASH DATA </b></a>   </td>
         </tr> 
         <tr>
             <td>  Nov 11  </td>
@@ -202,7 +202,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Dates & Text  </td>
             <td>   </td>
             <td>  Work on Final Project  </td>
-            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-"><b> CRASH DATA </b></a>  </td>
+            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-08"><b> CRASH DATA </b></a>  </td>
         </tr> 
         <tr>
             <td>  Nov 25  </td>
