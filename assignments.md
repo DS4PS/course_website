@@ -179,9 +179,9 @@ The final project will require you to practice skills from the semester by build
         <tr>
             <td>  Oct 28  </td>
             <td>  Joining Data  </td>
-            <td>   </td>
-            <td>  LAB 10 </td>
-            <td>     </td>
+            <td>  None </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-09-instructions.html"><b> LAB 10 </b></a> </td>
+            <td>  <a href="https://nccs-data.urban.org/dd2.php?close=1&form=Core+2010+PC"><b> NONPROFIT DATA </b></a>  </td>
         </tr> 
         <tr>
             <td>  Nov 4  </td>
