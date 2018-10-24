@@ -214,7 +214,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Dec 2  </td>
             <td>  Work on Final Project  </td>
             <td>    </td>
-            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-"><b> CRASH DATA </b></a>  </td>
+            <td>    </td>
         </tr> 
         <tr>
             <td>  Fri. Dec 7  </td>
