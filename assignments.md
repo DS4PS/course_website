@@ -40,13 +40,13 @@ Attend in-person sessions at the following times and locations:
 
 **Wednesday, 6pm-7pm**
 * Meet in **UCENT 580A** all semester 
-* We will not meet November 21st 
+* We will not meet Oct 31st or Nov 21st 
 * *If after 6pm, take elevator to 4th floor, turn right, take first stairs to 5th floor*
 
 **Thursday, 1pm-2pm** 
 * **Most weeks** we will meet in **UCENT 480A** 
 * Thursday, Nov 15th we will meet in **UCENT 705** 
-* We will not meet Nov 22nd 
+* We will not meet Nov 1st or Nov 22nd 
 
 
 <br>
