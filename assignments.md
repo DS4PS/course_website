@@ -463,12 +463,19 @@ Altnernatively, you can report on an interesting package in R that uses a data A
 
 ### Oct 22 - Oct 29:  Managing with Data
 
+Managing with data is a double-edged sword, especially in the public sector. We have the good:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TpBcwGOvO80" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+And the ugly:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xH_6_8NOfwI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+As governments and nonprofits begin embracing the use of data to actively inform decision-makings, the management practices sometimes need to catch up with the data.
 
+IBM has a good knowledge center on best practices for [Improving Government Performance](https://aspacap.wordpress.com/performance-measurement-publications/publications/), and the new book [The Goldilocks Challenge](https://ssir.org/articles/entry/ten_reasons_not_to_measure_impact_and_what_to_do_instead) cautions against jumping right into impact measurement, and instead focusing on some management fundamentals. 
+
+https://performance.chattanooga.gov/
 
 
 <br>
