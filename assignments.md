@@ -173,14 +173,14 @@ The final project will require you to practice skills from the semester by build
             <td>  Oct 28  </td>
             <td>  Data IO (input, output)  </td>
             <td>  <a href="http://rpubs.com/JamisonCrawford/readingtextdata"><b> Tutorial  </b></a>  </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-10-instructions.html"><b> LAB 09 </b></a> </td> 
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-09-instructions.html"><b> LAB 09 </b></a> </td> 
             <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-"><b> CRASH DATA </b></a>  </td>
         </tr> 08
         <tr>
             <td>  Oct 28  </td>
             <td>  Joining Data  </td>
             <td>  None </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-09-instructions.html"><b> LAB 10 </b></a> </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-10-instructions.html"><b> LAB 10 </b></a> </td>
             <td>  <a href="https://nccs-data.urban.org/dd2.php?close=1&form=Core+2010+PC"><b> NONPROFITS </b></a>  </td>
         </tr> 
         <tr>
