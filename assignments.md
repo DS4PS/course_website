@@ -184,7 +184,7 @@ The final project will require you to practice skills from the semester by build
             <td>  <a href="https://nccs-data.urban.org/dd2.php?close=1&form=Core+2010+PC"><b> NONPROFITS </b></a>  </td>
         </tr> 
         <tr>
-            <td>  Nov 4  </td>
+            <td>  Nov 11  </td>
             <td>  Maps  </td>
             <td>   </td>
             <td>  LAB 11 </td>
@@ -199,7 +199,7 @@ The final project will require you to practice skills from the semester by build
         </tr> 
         <tr>
             <td>  Nov 18  </td>
-            <td>  Text Analysis  </td>
+            <td>  Dates & Text  </td>
             <td>   </td>
             <td>  Work on Final Project  </td>
             <td>     </td>
