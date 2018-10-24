@@ -202,18 +202,20 @@ The final project will require you to practice skills from the semester by build
             <td>  Dates & Text  </td>
             <td>   </td>
             <td>  Work on Final Project  </td>
-            <td>     </td>
+            <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-"><b> CRASH DATA </b></a>  </td>
         </tr> 
         <tr>
             <td>  Nov 25  </td>
             <td>  Thanksgiving Week  </td>
             <td>    </td>
             <td>    </td>
+            <td>    </td>
         </tr> 
         <tr>
             <td>  Dec 2  </td>
-            <td>  Work on Final Project  </td>
+            <td>  No New Topic  </td>
             <td>    </td>
+            <td>  Work on Final Project  </td>
             <td>    </td>
         </tr> 
         <tr>
