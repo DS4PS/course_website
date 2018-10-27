@@ -463,22 +463,19 @@ Altnernatively, you can report on an interesting package in R that uses a data A
 
 ### Oct 22 - Oct 29:  Managing with Data
 
-Managing with data is a double-edged sword, especially in the public sector. We have the good:
+Ever since Michael Lewis popularized the story of the Oakland A's using data-driven management to overcome huge budget disparities to achieve the underdog story of the decade, every industry is trying to figure out how to "moneyball" performance - i.e. substituting good data for the normal inputs into high-performing organizations like human capital, financial capital, or culture:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TpBcwGOvO80?controls=0" frameborder="0" allowfullscreen></iframe>
 
 <br><br>
 
-And the bad:
+Data-driven management can be a double-edged sword, though. Fans of the hit TV show The Wire will recognize the dramatic portrayal of Baltimore's CityStat system:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xH_6_8NOfwI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-As governments and nonprofits begin embracing the use of data to actively inform decision-makings, the management practices sometimes need to catch up with the data.
+As governments and nonprofits begin embracing the use of data to actively inform decision-making, the management practices sometimes need to catch up with the data. The new book [The Goldilocks Challenge](https://ssir.org/articles/entry/ten_reasons_not_to_measure_impact_and_what_to_do_instead) cautions against jumping right into impact measurement, and instead focusing on management fundamentals first. 
 
-IBM has a good knowledge center on best practices for [Improving Government Performance](https://aspacap.wordpress.com/performance-measurement-publications/publications/), and the new book [The Goldilocks Challenge](https://ssir.org/articles/entry/ten_reasons_not_to_measure_impact_and_what_to_do_instead) cautions against jumping right into impact measurement, and instead focusing on some management fundamentals. 
-
-https://performance.chattanooga.gov/
-
+Is your current organizations (or one you have recently worked with) collecting data for strategic management purposes? Does it have the proper management practices in place to fully utilize that data that is collected, or is the current data not used to its full potential? If you had to suggest one new data-driven management practice, what would it be?  
 
 <br>
 -----------------
