@@ -187,7 +187,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Nov 11  </td>
             <td>  Maps  </td>
             <td>  <a href="http://rpubs.com/jdlecy/making_maps_in_r"> Overview </a></td>
-            <td>  LAB 11 </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-11-instructions.html"><b> LAB 11 </b></a> </td>
             <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-08"><b> CRASH DATA </b></a>   </td>
         </tr> 
         <tr>
