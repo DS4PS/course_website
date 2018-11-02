@@ -186,7 +186,7 @@ The final project will require you to practice skills from the semester by build
         <tr>
             <td>  Nov 11  </td>
             <td>  Maps  </td>
-            <td>   </td>
+            <td>  [Overview](http://rpubs.com/jdlecy/making_maps_in_r) </td>
             <td>  LAB 11 </td>
             <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-08"><b> CRASH DATA </b></a>   </td>
         </tr> 
