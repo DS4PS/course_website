@@ -454,6 +454,7 @@ Altnernatively, you can report on an interesting package in R that uses a data A
 
 
 <br>
+
 -----------------
 <br>
 
@@ -480,6 +481,7 @@ Is your current organizations (or one you have recently worked with) collecting 
 
 
 <br>
+
 -----------------
 <br>
 
@@ -509,6 +511,8 @@ This is not to say that we should not Moneyball Government, but algorithms that 
 
 
 <br><br><br>
+
+
 -----------------
 <br>
 
