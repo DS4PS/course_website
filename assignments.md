@@ -491,7 +491,7 @@ A [recent editorial](https://www.theatlantic.com/magazine/archive/2013/07/can-go
 
 > "With so little performance data, it’s impossible to say how many of the programs were effective... Since 1990, the federal government has put 11 large social programs, collectively costing taxpayers more than $10 billion a year, through randomized controlled trials, the gold standard of evaluation. Ten out of the 11—including Upward Bound and Job Corps—showed “weak or no positive effects” on their participants. This is not to say that all 10 programs deserve to be eliminated. But at a minimum, collecting rigorous evidence could help spur programs to improve over time."
 
-The challenge with this line of reasoning is that outcomes in business and baseball are easy to define. Businesses care about profits and returns on investment, and baseball teams care about wins and championchips (or profits and return on investment if you are the team owner). 
+The challenge with this line of reasoning is that outcomes in business and baseball are easy to define. Businesses care about profits and returns on investment, and baseball teams care about wins and championships (or profits and return on investment if you are the team owner). 
 
 The trick that Moneyball demonstrated is discovering a [key variable that predicts performance](https://towardsdatascience.com/linear-regression-moneyball-part-2-175a9dc72e89), then figuring out how to buy more for as cheap as possible. 
 
