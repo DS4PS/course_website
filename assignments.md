@@ -510,6 +510,33 @@ This is not to say that we should not Moneyball Government, but algorithms that 
 
 
 
+
+<br>
+
+-----------------
+<br>
+
+### Nov 5 - Nov 18:  Open Innovation
+
+One important feature of scripted analysis is that it is auditable and reproducible, meaning anyone can check to ensure the solutions are correct. More importantly, though, they help to build knowledge. If you have a good analytical solution to a hard problem, but it lives in a file on your computer, the world will not benefit if the solution is not shared and replicated. Once it is represented as a script or analytical "recipe", it becomes easy to share and for others to reproduce similar solutions in other contexts. 
+
+Every community is unique in one way or another, but we all have a lot in common, especially when it comes to local government and the challenges of keeping communities solvent and thriving. If one community devises a clever data-driven solution to a hard problem, it does not make sense for other communities to reinvent the wheel. They should build off of current advances. 
+
+Building data science capacity in local government creates opportunity to leverage open innovation best practices. For example, consider these two cases:
+
+CASE 1: The city of Chicago lacked resources to send food safety inspectors to visit every restaurant each year, so they would randomly select a sample as a means of ensuring there was some level of accountability. The data science team began to ask the question, would it be possible to prioritize inspections by the likelihood that a restaurant has a serious violation that could result in a public health problem? They built a model in R using open data that any large city would have, tested it, then share [their solution](https://chicago.github.io/food-inspections-evaluation/) and their [source code](https://github.com/chicago/food-inspections-evaluation/).
+
+CASE 2: Infrastructure maintenance is one of the most expensive activities any city undertakes, so any management improvements that can reduce project costs by a few percentage points result in millions of dollars in savings. Streets maintenance presents a specific opportunity since timely maintenance at the point where roads begin to deteriorate can extend the life of the road for a fraction of the cost it takes to repair after it has deteriorated too much. The problem is that it has historically been hard to gather data on street quality to know when maintenance should occur. Because of [advances in sensing technology](https://www.citylab.com/solutions/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) timely, high-quality data is no longer hard to collect. But having lots of data poses a new problem - optimizing a maintenance schedule is a hard analytical problem that typically required paid experts that run complicated math models. Some cities have started using open source software like R to create their own programs, and are [sharing the solutions](https://www.danielphadley.com/optimize-street-repairs/) for other cities to use and improve upon. 
+
+For this topic, think about some challenges that your specific neighborhood or city face that might have a data-driven solution, and that could be easily replicated in other neighborhoods or cities if the solution was represented as an analytical script. If you had a team of data scientists willing to build some tools, what issues would you suggest, and what data would be needed for the solution? 
+
+
+
+
+
+
+
+
 <br><br><br>
 
 
