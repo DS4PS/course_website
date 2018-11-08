@@ -201,7 +201,7 @@ The final project will require you to practice skills from the semester by build
             <td>  Nov 18  </td>
             <td>  Crashboard Dashboard  </td>
             <td>  Work on Final Project </td>
-            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-13-instructions.html"><b> FINAL PROJECT INSTRUCTIONS </b></a>  </td>
+            <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-13-instructions.html"><b> INSTRUCTIONS </b></a>  </td>
             <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-08"><b> CRASH DATA </b></a>  </td>
         </tr> 
         <tr>
@@ -221,6 +221,7 @@ The final project will require you to practice skills from the semester by build
         <tr>
             <td>  Fri. Dec 7  </td>
             <td>  FINAL PROJECT DUE  </td>
+            <td>    </td>
             <td>    </td>
             <td>  DASHBOARD  </td>
         </tr> 
