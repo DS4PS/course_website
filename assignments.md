@@ -184,14 +184,14 @@ The final project will require you to practice skills from the semester by build
             <td>  <a href="https://nccs-data.urban.org/dd2.php?close=1&form=Core+2010+PC"><b> NONPROFITS </b></a>  </td>
         </tr> 
         <tr>
-            <td>  Nov 11  </td>
+            <td>  Nov 21  </td>
             <td>  Maps  </td>
             <td>  <a href="http://rpubs.com/jdlecy/making_maps_in_r"> Overview </a></td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-11-instructions.html"><b> LAB 11 </b></a> </td>
             <td>  <a href="https://data.tempe.gov/dataset/high-severity-traffic-crashes-1-08"><b> CRASH DATA </b></a>   </td>
         </tr> 
         <tr>
-            <td>  Nov 11  </td>
+            <td>  Nov 21  </td>
             <td>  Data Wrangling Practice </td>
             <td>  Review DPLYR </td>
             <td>  <a href="https://ds4ps.github.io/Data-Science-Class/LABS//lab-12-instructions.html"><b> LAB 12 </b></a> </td>
