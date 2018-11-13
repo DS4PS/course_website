@@ -71,9 +71,9 @@ When you get stuck on labs or projects you have several options to get help:
 <table id="myTable" style="width:90%;margin-left:0px;margin-right:20px;">
 
   <tr class="header">
-    <th style="width:50%;">Issue</th>
+    <th style="width:60%;">Issue</th>
     <th style="width:15%;">Labels</th>
-    <th style="width:35%;">Created on</th>
+    <th style="width:55%;">Created on</th>
 
   </tr>
 </table>
@@ -153,7 +153,7 @@ function httpGetAsync(theUrl, resp)
                     }
                 		tr.appendChild(td);
                 		var td = document.createElement("td");
-                		var txt = document.createTextNode(obj[i].created_at);
+                		var txt = document.createTextNode(new Date(obj[i].created_at).toUTCString());
                 		td.appendChild(txt);
                 		tr.appendChild(td);
                 		table.appendChild(tr);
