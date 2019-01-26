@@ -20,9 +20,8 @@ layout: default
       padding-left: 8px;
     }
     .fa{
-      position: relative;
       /* Adjust these values accordingly */
-      style="height: 24px"
+      style="height: 27px"
       padding-right: 8px;
     }
     .button{
@@ -173,12 +172,12 @@ layout: default
 <td> <a href="mailto:{{item.email}}" title="email"><i id="general" class="fa fa-envelope" ></i></a> </td>
 
 {% if item.github_url %}
-<td> <a href="{{item.github_url}}" title="email"><i id="general" class="fab fa-github" "></i></a> </td>
+<td> <a href="{{item.github_url}}" title="email"><i id="general" class="fab fa-github fa-3x" "></i></a> </td>
 {% endif %}
 
 {% if item.twitter_url %}
 <td>
- <a href="{{item.twitter_url}}" title="email"><i id="general" class="fab fa-twitter" ></i></a> 
+ <a href="{{item.twitter_url}}" title="email"><i id="general" class="fab fa-twitter" ratio: 3.5></i></a> 
 </td>
 {% endif %}
 
@@ -188,6 +187,12 @@ layout: default
 </td>
 {% endif %}
 
+{% if item.scholar_url %}
+<td>
+ <a href="{{item.scholar_url}}" title="email"><i id="general" class="fa fa-cog fa-spin fa-3x fa-fw"></i></a> 
+</td>
+{% endif %}
+  
 {% if item.linked_in_url %}
 <td>
  <a href="{{item.linked_in_url}}" title="email"><i id="general" class="fa fa-linkedin" ></i></a> 
@@ -249,7 +254,7 @@ layout: default
 <tbody>
 {% for item in page.textbooks %}
 <tr align="left">
-<td align="left"><button class="uk-button uk-button-link" onclick="location.href='{{ item.link }}'" > <i id="general" class="fas fa-book" style="height: 27px" ></i> {{ item.title }}</button></td>
+<td align="left"><button class="uk-button uk-button-link" onclick="location.href='{{ item.link }}'"> <i id="general" class="fas fa-book" ratio: 3.5></i> {{ item.title }}</button></td>
 {% if item.authors %}
 <td>{{item.authors}}</td>
 {% endif %}
