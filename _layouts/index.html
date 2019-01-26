@@ -60,7 +60,7 @@ layout: default
 
 
 
-<h2> Course Info </h2> <a><i id="general" class="fa fa-cog fa-spin fa-3x fa-fw"></i></a>
+<a><i id="general" class="fa fa-cog fa-spin fa-3x fa-fw"></i></a><h2> Course Info </h2> 
 
 <table id="index" class="table table-condensed" cellspacing="10">
 <thead>
@@ -254,7 +254,7 @@ layout: default
 <tbody>
 {% for item in page.textbooks %}
 <tr align="left">
-<td align="left"><button class="uk-button uk-button-link" onclick="location.href='{{ item.link }}'"> <i id="general" class="fas fa-book" ratio: 3.5></i> {{ item.title }}</button></td>
+<td align="left"><button class="uk-button uk-button-link" onclick="location.href='{{ item.link }}'"> <i id="general" class="fas fa-book fa-2x"></i> {{ item.title }}</button></td>
 {% if item.authors %}
 <td>{{item.authors}}</td>
 {% endif %}
