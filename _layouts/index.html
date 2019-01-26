@@ -249,7 +249,7 @@ layout: default
 <tbody>
 {% for item in page.textbooks %}
 <tr align="left">
-<td align="left"><button class="uk-button uk-button-link" onclick="location.href='{{ item.link }}'" > <i id="general" class="fas fa-book" ></i> {{ item.title }}</button></td>
+<td align="left"><button class="uk-button uk-button-link" onclick="location.href='{{ item.link }}'" > <i id="general" class="fas fa-book" style="height: 27px" ></i> {{ item.title }}</button></td>
 {% if item.authors %}
 <td>{{item.authors}}</td>
 {% endif %}
