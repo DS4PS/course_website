@@ -57,7 +57,7 @@ textbooks:
 --- 
 
 <style> 
-    .body {
+    body {
       font-family: "Roboto", sans-serif;
     }
 </style>
