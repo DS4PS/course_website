@@ -41,7 +41,7 @@ textbooks:
 - title: The Art of Data Science
   authors: Peng, R. D., & Matsui, E.
   edition: Free Online
-  link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
+  link: https://leanpub.com/artofdatascience
   required (y/n): n
 - title: Modern Dive, Intro to Stats and Data Sciences via R
   authors: Chester Ismay & Albert Y. Kim
