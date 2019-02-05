@@ -59,9 +59,14 @@ layout: default
 <a class="uk-button uk-button-default" class="uk-align-center" onclick="onlyprint();">PRINT THE SYLLABUS</a>
 
 
-
+<!––
 <h2><a><i id="general" class="fa fa-cog fa-spin fa-1x fa-fw"></i></a> Course Info </h2> 
+––>
 
+
+<h2></a> Course Info </h2> 
+
+  
 <table id="index" class="table table-condensed" cellspacing="10">
 <thead>
 <tr>
@@ -187,12 +192,14 @@ layout: default
 </td>
 {% endif %}
 
+<!––
 {% if item.scholar_url %}
 <td>
  <a href="{{item.scholar_url}}" title="email"><i id="general" class="fa fa-cog fa-spin fa-2x fa-fw"></i></a> 
 </td>
 {% endif %}
-  
+––>
+
 {% if item.linked_in_url %}
 <td>
  <a href="{{item.linked_in_url}}" title="email"><i id="general" class="fa fa-linkedin" ></i></a> 
