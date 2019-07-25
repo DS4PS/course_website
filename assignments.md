@@ -423,6 +423,7 @@ The part of the story I found most fascinating was the schools that were able to
 
 Most of you are social science or humanities students without a lot of background in computer programming. What has your experience been in this course? Would you have taken the class if it had been called "computer science" instead of "data science"? In the podcast women were marginalized in the field of computer science. The modern version of this story is public sector workers and nonprofit managers that are constantly told that they are not good with data, that they should rely on outside "experts" for this work. Based on your experiences this semester, how can we overcome these stereotypes to make government and social sectors more data-driven and more effective? 
 
+Update: [R Ladies is Making Data Science Inclusive](https://qz.com/work/1661486/r-ladies-made-data-science-inclusive/)
 
 <br>
 
